@@ -1,39 +1,133 @@
 # 伯罗奔尼撒战争 史诗叙事馆
 # Peloponnesian War: Epic Narrative Museum
 
-一个中文为主、可交互浏览的伯罗奔尼撒战争 Web 站点，结合战争总览、分层地图、章节式策略推演、修昔底德专题与知识图谱探索。
+这是一个使用 [knowledge2skills](https://github.com/yuancafe/knowledge2skills) 开发的实例项目。  
+它展示了如何把领域知识、图谱数据、原始史料整理与前端交互设计结合起来，快速生成一个可浏览、可探索、可游玩的中文历史网站。
 
-An interactive web experience centered on the Peloponnesian War, combining a war overview, layered historical maps, chapter-based strategy play, a Thucydides feature, and an explorable knowledge graph.
+This project is a showcase built with [knowledge2skills](https://github.com/yuancafe/knowledge2skills).  
+It demonstrates how domain knowledge, graph-structured data, curated source material, and frontend interaction design can be combined to produce an explorable, playable, Chinese-language history website.
 
-## 项目亮点
-## Highlights
+## 这个项目是什么
+## What This Project Is
 
-- 中文史诗叙事体验，覆盖前 431 年至前 404 年的战争主线
-- Epic Chinese-language storytelling covering the main arc of the war from 431 BCE to 404 BCE
+本项目围绕伯罗奔尼撒战争构建了一个“史诗叙事馆”式 Web 体验，不只是静态介绍页，而是把历史内容组织成多个互相联动的模块：
 
-- 五大战争阶段总览，联动时间、地图、人物与关键事件
-- Five war phases linked to timeline, map, people, and turning points
+This project turns the Peloponnesian War into an “epic narrative museum” on the web. It is not just a static information page, but a multi-module historical experience with linked content and interactions:
 
-- 分层地图浏览：城邦/组织、人物、事件可切换
-- Layered map exploration with switchable views for polities/organizations, people, and events
+- 战争总览
+- War overview
 
-- 单人章节式策略推演，可从雅典、斯巴达、叙拉古三方视角进入战争
-- Single-player chapter-based strategy experience from the perspectives of Athens, Sparta, and Syracuse
+- 地图叙事
+- Narrative map
 
-- 修昔底德专题，解释他是谁、为何写作、为何重要
-- A Thucydides feature explaining who he was, why he wrote, and why the work still matters
+- 策略推演
+- Strategy simulation
 
-- 知识图谱与实体词典联动，可按类型检索人物、地点、事件、城邦与概念
-- Connected knowledge graph and entity dictionary for browsing people, places, events, poleis, and concepts by type
+- 修昔底德专题
+- Thucydides feature
 
-## 技术栈
-## Tech Stack
+- 知识图谱与实体词典
+- Knowledge graph and entity dictionary
 
-- `React 19`
+## 用 knowledge2skills 做了什么
+## What Was Built with knowledge2skills
+
+借助 `knowledge2skills`，这个项目完成了从知识到网站体验的转化流程，包括：
+
+With `knowledge2skills`, this project turns knowledge into a working website experience, including:
+
+- 将战争相关图谱数据转成前端可直接消费的实体数据与关系网络
+- Converting war-related graph data into frontend-ready entities and relationship graphs
+
+- 对人物、地点、事件、城邦、组织、概念进行统一命名、去重和规范化
+- Normalizing, deduplicating, and standardizing people, places, events, poleis, organizations, and concepts
+
+- 剔除错误关联实体，修正常见别名、繁简差异和分类错误
+- Removing noisy entities and correcting aliases, simplified/traditional variants, and category mistakes
+
+- 将结构化知识组织成可视化时间线、地图、图谱和互动叙事
+- Reorganizing structured knowledge into visual timelines, maps, graphs, and interactive narrative modules
+
+- 把知识内容进一步包装成具有审美方向和沉浸感的中文历史站点
+- Packaging the knowledge into a Chinese historical site with a deliberate visual direction and immersive presentation
+
+## 网站功能
+## Site Features
+
+### 1. 战争总览
+### 1. War Overview
+
+- 以五个阶段梳理战争主线，从战前局势一直讲到前 404 年雅典失败
+- Organizes the war into five major phases, from prewar tensions to the Athenian collapse in 404 BCE
+
+- 联动时间、人物、关键事件与阶段说明
+- Connects phases to timeline shifts, people, turning points, and strategic explanations
+
+### 2. 分层地图
+### 2. Layered Map
+
+- 在同一张底图上切换不同信息层：城邦/组织、人物、事件
+- Lets users switch layers on a shared map base: polities/organizations, people, and events
+
+- 支持按时间推进查看战局变化
+- Supports timeline-based progression to follow how the war evolves geographically
+
+- 地图节点可点击查看实体详情
+- Map nodes are clickable and open linked entity details
+
+### 3. 战争策略推演
+### 3. Strategy Simulation
+
+- 从雅典、斯巴达、叙拉古三个视角进入战争
+- Allows players to enter the war from the perspectives of Athens, Sparta, or Syracuse
+
+- 采用章节式回合结构，而不是一次性做完的静态选择
+- Uses a chapter-based turn structure instead of a one-shot branching choice flow
+
+- 每轮包含资源变化、历史对照、偏离分析与下一轮推进
+- Each round includes resource shifts, historical comparison, divergence analysis, and progression to the next turn
+
+### 4. 修昔底德专题
+### 4. Thucydides Feature
+
+- 介绍修昔底德本人、流放经历、写作动机与史学方法
+- Introduces Thucydides himself, his exile, motives for writing, and historiographical method
+
+- 解释他为什么不只是记录战争，而是在分析权力、恐惧与判断
+- Explains why he was not merely recording war, but analyzing power, fear, and political judgment
+
+### 5. 知识图谱与实体词典
+### 5. Knowledge Graph and Entity Dictionary
+
+- 默认展示战争核心子图，也可切换到更完整的关系网络
+- Shows a core war graph by default, with an option to switch to a larger network
+
+- 支持搜索、聚焦、点击实体、查看关联关系
+- Supports search, focus, entity selection, and relationship browsing
+
+- 提供按类型展开的实体词典，方便系统化查阅
+- Includes a type-based entity dictionary for systematic browsing
+
+## 技术实现
+## Technical Stack
+
+- `React`
 - `TypeScript`
 - `Vite`
-- 纯前端静态站点 / Fully static frontend site
-- 本地 JSON 数据驱动 / Local JSON-driven content
+- 静态前端部署
+- Static frontend deployment
+
+项目核心数据流包括：
+The core project data flow includes:
+
+- 原始图谱与实体详情
+- raw graph and entity details
+
+- 构建脚本生成规范化 JSON
+- a build script that generates normalized JSON
+
+- 前端统一实体系统驱动地图、图谱、叙事与战棋
+- a unified frontend entity system powering the map, graph, narrative, and strategy modules
 
 ## 本地运行
 ## Local Development
@@ -43,93 +137,25 @@ npm install
 npm run dev
 ```
 
-默认开发地址通常为：
-The local dev server usually runs at:
-
-```text
-http://localhost:5173
-```
-
-## 常用脚本
-## Scripts
+## 构建
+## Build
 
 ```bash
-npm run dev
-npm run test
 npm run build
 ```
 
-说明：
-Notes:
-
-- `npm run build:data`：根据原始图谱与实体详情生成前端使用的数据文件
-- `npm run build:data`: generates the frontend data files from the raw graph and entity sources
-
-- `npm run test`：运行 Vitest 测试
-- `npm run test`: runs the Vitest suite
-
-- `npm run build`：先生成数据，再执行 TypeScript 构建与 Vite 打包
-- `npm run build`: regenerates data, then runs the TypeScript build and Vite production build
-
-## 目录结构
-## Project Structure
-
-```text
-src/
-  components/     UI 组件 / UI components
-  data/           人工整理的战争内容 / curated war content
-  lib/            图谱、地图、战棋等逻辑 / graph, map, and campaign logic
-  App.tsx         主页面 / main application shell
-
-public/
-  data/           生成后的实体与图谱 JSON / generated entity and graph JSON
-  maps/           地图底图素材 / map assets
-  portraits/      核心人物配图 / portrait assets
-  social/         社交媒体资源 / social assets
-
-scripts/
-  build-greek-data.mjs   数据生成脚本 / data generation script
-```
-
-## 数据说明
-## Data Notes
-
-- 项目使用统一实体体系，把战争阶段、地图、图谱与战棋内容联动到同一组实体 ID
-- The project uses a unified entity system so that phases, maps, the graph, and the strategy module all point to the same entity IDs
-
-- 原始数据会在构建时经过规范化，包括繁简统一、别名合并、错误实体剔除与分类修正
-- Raw data is normalized at build time, including simplified-Chinese conversion, alias merging, noisy-entity removal, and category correction
-
-## 部署
-## Deployment
-
-这是一个静态站点，适合部署到 Vercel、Cloudflare Pages、Netlify 或任何支持静态文件托管的平台。
-
-This is a static site and can be deployed easily to Vercel, Cloudflare Pages, Netlify, or any static hosting provider.
-
-标准生产构建：
-Production build:
+构建前会先自动执行数据生成脚本：
+The build automatically runs the data generation step first:
 
 ```bash
-npm install
-npm run build
+npm run build:data
 ```
 
-构建产物位于：
-Build output:
-
-```text
-dist/
-```
-
-## 仓库信息
+## 仓库
 ## Repository
 
 GitHub:
 [https://github.com/yuancafe/Peloponnesian](https://github.com/yuancafe/Peloponnesian)
 
-## 版权与署名
-## Credits
-
-© 2026 Leo Yuan Tsao  
-SEED Reading Club
+Knowledge2skills:
+[https://github.com/yuancafe/knowledge2skills](https://github.com/yuancafe/knowledge2skills)
