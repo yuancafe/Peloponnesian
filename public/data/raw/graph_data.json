@@ -1,0 +1,10253 @@
+{
+  "nodes": [
+    {
+      "id": "安菲玻里",
+      "label": "安菲玻里",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "宽容",
+      "label": "宽容",
+      "degree": 3,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "密提林事件",
+      "label": "密提林事件",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "帝国",
+      "label": "帝国",
+      "degree": 4,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "爱琴海",
+      "label": "爱琴海",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "伯拉西达",
+      "label": "伯拉西达",
+      "degree": 13,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "伊诺",
+      "label": "伊诺",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "埃莱夫西斯",
+      "label": "埃莱夫西斯",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "克里昂",
+      "label": "克里昂",
+      "degree": 15,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "色利亚平原",
+      "label": "色利亚平原",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "戴奥多都斯",
+      "label": "戴奥多都斯",
+      "degree": 13,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "阿卡奈",
+      "label": "阿卡奈",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "重装步兵",
+      "label": "重装步兵",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "骑兵",
+      "label": "骑兵",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "徒步射手",
+      "label": "徒步射手",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "三列桨战舰",
+      "label": "三列桨战舰",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "雅典娜女神像",
+      "label": "雅典娜女神像",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "同盟者",
+      "label": "同盟者",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "哈格农",
+      "label": "哈格农",
+      "degree": 2,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "安菲波利",
+      "label": "安菲波利",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "修昔底德",
+      "label": "修昔底德",
+      "degree": 97,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "超凡魅力权威",
+      "label": "超凡魅力权威",
+      "degree": 9,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "僭主之治",
+      "label": "僭主之治",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "恐惧",
+      "label": "恐惧",
+      "degree": 2,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "密提林叛变",
+      "label": "密提林叛变",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "斯巴达",
+      "label": "斯巴达",
+      "degree": 40,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "盟邦",
+      "label": "盟邦",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "林斯",
+      "label": "林斯",
+      "degree": 0,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "阿尔戈斯",
+      "label": "阿尔戈斯",
+      "degree": 5,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "底比斯",
+      "label": "底比斯",
+      "degree": 6,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "埃皮达鲁斯",
+      "label": "埃皮达鲁斯",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "科孚岛",
+      "label": "科孚岛",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "莱斯博斯岛",
+      "label": "莱斯博斯岛",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "萨摩斯岛",
+      "label": "萨摩斯岛",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "罗得岛",
+      "label": "罗得岛",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "克里特岛",
+      "label": "克里特岛",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "西西里岛",
+      "label": "西西里岛",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "伯里克利",
+      "label": "伯里克利",
+      "degree": 29,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "锡拉",
+      "label": "锡拉",
+      "degree": 0,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "米利都",
+      "label": "米利都",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "埃及托勒密王朝",
+      "label": "埃及托勒密王朝",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "波斯帝国",
+      "label": "波斯帝国",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "地图",
+      "label": "地图",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "阿提卡",
+      "label": "阿提卡",
+      "degree": 10,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "历史循环论",
+      "label": "历史循环论",
+      "degree": 0,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "公元前五世纪的希腊历史",
+      "label": "公元前五世纪的希腊历史",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "列宁",
+      "label": "列宁",
+      "degree": 4,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "弥罗斯",
+      "label": "弥罗斯",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "赫尔墨斯神像事件",
+      "label": "赫尔墨斯神像事件",
+      "degree": 4,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "伯罗奔尼撒战争",
+      "label": "伯罗奔尼撒战争",
+      "degree": 37,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "弥罗斯对话",
+      "label": "弥罗斯对话",
+      "degree": 4,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "普拉提亚",
+      "label": "普拉提亚",
+      "degree": 7,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "赫西俄德",
+      "label": "赫西俄德",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "罗马帝国",
+      "label": "罗马帝国",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "马其顿帝国",
+      "label": "马其顿帝国",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "雅典帝国",
+      "label": "雅典帝国",
+      "degree": 5,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "公民权",
+      "label": "公民权",
+      "degree": 0,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "古希腊",
+      "label": "古希腊",
+      "degree": 4,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "法庭诉讼",
+      "label": "法庭诉讼",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "外邦人",
+      "label": "外邦人",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "原子",
+      "label": "原子",
+      "degree": 2,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "人的灵魂",
+      "label": "人的灵魂",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "古希腊唯物主义思想",
+      "label": "古希腊唯物主义思想",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "智者派",
+      "label": "智者派",
+      "degree": 2,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "普罗太戈拉",
+      "label": "普罗太戈拉",
+      "degree": 3,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "阿基达马斯",
+      "label": "阿基达马斯",
+      "degree": 6,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "奴隶主民主政治",
+      "label": "奴隶主民主政治",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "苏格拉底",
+      "label": "苏格拉底",
+      "degree": 6,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "爱斯基里斯",
+      "label": "爱斯基里斯",
+      "degree": 2,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "索福克勒斯",
+      "label": "索福克勒斯",
+      "degree": 3,
+      "group": 7,
+      "category": "Period"
+    },
+    {
+      "id": "幼里披底斯",
+      "label": "幼里披底斯",
+      "degree": 3,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "阿里斯多芬",
+      "label": "阿里斯多芬",
+      "degree": 2,
+      "group": 7,
+      "category": "Period"
+    },
+    {
+      "id": "希罗多德",
+      "label": "希罗多德",
+      "degree": 8,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "历史",
+      "label": "历史",
+      "degree": 2,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "人世的问题",
+      "label": "人世的问题",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "希波战争",
+      "label": "希波战争",
+      "degree": 5,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "神和命运",
+      "label": "神和命运",
+      "degree": 1,
+      "group": 7,
+      "category": "Period"
+    },
+    {
+      "id": "现实主义成分",
+      "label": "现实主义成分",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "世俗社会",
+      "label": "世俗社会",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "僭主暴政",
+      "label": "僭主暴政",
+      "degree": 0,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "雅典娜",
+      "label": "雅典娜",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "品达",
+      "label": "品达",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "提洛岛",
+      "label": "提洛岛",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "斯基洛斯",
+      "label": "斯基洛斯",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "卡利斯图",
+      "label": "卡利斯图",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "纳克索斯",
+      "label": "纳克索斯",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "塔索斯",
+      "label": "塔索斯",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "希洛人起义",
+      "label": "希洛人起义",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "优卑亚各邦",
+      "label": "优卑亚各邦",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "三十年和约",
+      "label": "三十年和约",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "萨摩斯",
+      "label": "萨摩斯",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "极端的不正义",
+      "label": "极端的不正义",
+      "degree": 0,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "亞西比得",
+      "label": "亞西比得",
+      "degree": 9,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "替薩斐尼",
+      "label": "替薩斐尼",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "薩莫斯",
+      "label": "薩莫斯",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "優卑亞",
+      "label": "優卑亞",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "赫勒斯滂海峽",
+      "label": "赫勒斯滂海峽",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "塞斯都斯",
+      "label": "塞斯都斯",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "阿比多斯",
+      "label": "阿比多斯",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "塞諾西馬地角",
+      "label": "塞諾西馬地角",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "基齊庫斯",
+      "label": "基齊庫斯",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "色雷斯沿海地區",
+      "label": "色雷斯沿海地區",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "伯羅奔尼撒人",
+      "label": "伯羅奔尼撒人",
+      "degree": 12,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "斯巴達海軍",
+      "label": "斯巴達海軍",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "米加臘",
+      "label": "米加臘",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "伯羅奔尼撒聯盟",
+      "label": "伯羅奔尼撒聯盟",
+      "degree": 6,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "第一次伯羅奔尼撒戰爭",
+      "label": "第一次伯羅奔尼撒戰爭",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "和平條約",
+      "label": "和平條約",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "城市國家",
+      "label": "城市國家",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "埃皮達姆努斯",
+      "label": "埃皮達姆努斯",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "伯羅奔尼撒半島",
+      "label": "伯羅奔尼撒半島",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "濱海城市",
+      "label": "濱海城市",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "尼基阿斯",
+      "label": "尼基阿斯",
+      "degree": 8,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "赫尔密石像事件",
+      "label": "赫尔密石像事件",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "僭主政治",
+      "label": "僭主政治",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "伯罗奔尼撒战争史",
+      "label": "伯罗奔尼撒战争史",
+      "degree": 22,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "寡头政治",
+      "label": "寡头政治",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "迦太基",
+      "label": "迦太基",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "希腊史学",
+      "label": "希腊史学",
+      "degree": 0,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "奥罗洛斯",
+      "label": "奥罗洛斯",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "阿那克萨戈拉",
+      "label": "阿那克萨戈拉",
+      "degree": 3,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "安提丰",
+      "label": "安提丰",
+      "degree": 2,
+      "group": 7,
+      "category": "Period"
+    },
+    {
+      "id": "色雷斯沿海地区",
+      "label": "色雷斯沿海地区",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "萨所斯岛",
+      "label": "萨所斯岛",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "优卑亚",
+      "label": "优卑亚",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "拜占庭",
+      "label": "拜占庭",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "那克孽斯",
+      "label": "那克孽斯",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "雅典",
+      "label": "雅典",
+      "degree": 262,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "萨勃斯",
+      "label": "萨勃斯",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "被监禁者",
+      "label": "被监禁者",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "被告发者",
+      "label": "被告发者",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "库奇克斯",
+      "label": "库奇克斯",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "莱山德",
+      "label": "莱山德",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "希腊",
+      "label": "希腊",
+      "degree": 10,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "古代希腊",
+      "label": "古代希腊",
+      "degree": 0,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "历史学",
+      "label": "历史学",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "色诺芬",
+      "label": "色诺芬",
+      "degree": 4,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "希腊史",
+      "label": "希腊史",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "诺提乌姆",
+      "label": "诺提乌姆",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "十将军委员会",
+      "label": "十将军委员会",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "安菲玻里城",
+      "label": "安菲玻里城",
+      "degree": 2,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "塔索斯岛",
+      "label": "塔索斯岛",
+      "degree": 0,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "斯特吕蒙河",
+      "label": "斯特吕蒙河",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "爱昂城",
+      "label": "爱昂城",
+      "degree": 0,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "攸克利",
+      "label": "攸克利",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "安菲玻里战役",
+      "label": "安菲玻里战役",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "瘟疫",
+      "label": "瘟疫",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "埃吉纳",
+      "label": "埃吉纳",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "科林斯",
+      "label": "科林斯",
+      "degree": 24,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "柏克",
+      "label": "柏克",
+      "degree": 2,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "丘吉尔",
+      "label": "丘吉尔",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "提洛同盟",
+      "label": "提洛同盟",
+      "degree": 5,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "亚西比德",
+      "label": "亚西比德",
+      "degree": 18,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "叙拉古城",
+      "label": "叙拉古城",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "色雷斯",
+      "label": "色雷斯",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "不白之冤",
+      "label": "不白之冤",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "阿伦特",
+      "label": "阿伦特",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "伯羅奔尼撒戰爭",
+      "label": "伯羅奔尼撒戰爭",
+      "degree": 20,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "伊庇丹努",
+      "label": "伊庇丹努",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "埃斯库罗斯",
+      "label": "埃斯库罗斯",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "正义与利益之争",
+      "label": "正义与利益之争",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "西西里远征",
+      "label": "西西里远征",
+      "degree": 9,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "伊奥尼亚海域",
+      "label": "伊奥尼亚海域",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "敘拉古人",
+      "label": "敘拉古人",
+      "degree": 11,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "雅典人",
+      "label": "雅典人",
+      "degree": 30,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "斯巴達人",
+      "label": "斯巴達人",
+      "degree": 14,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "羊河口海戰",
+      "label": "羊河口海戰",
+      "degree": 4,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "安菲波里之戰",
+      "label": "安菲波里之戰",
+      "degree": 2,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "希洛人",
+      "label": "希洛人",
+      "degree": 4,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "福密俄",
+      "label": "福密俄",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "派羅斯",
+      "label": "派羅斯",
+      "degree": 5,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "客蒙",
+      "label": "客蒙",
+      "degree": 2,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "利益分裂",
+      "label": "利益分裂",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "安纳托利亚",
+      "label": "安纳托利亚",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "伯罗奔尼撒联盟",
+      "label": "伯罗奔尼撒联盟",
+      "degree": 2,
+      "group": 4,
+      "category": "Organization"
+    },
+    {
+      "id": "阿希达穆斯二世",
+      "label": "阿希达穆斯二世",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "波斯",
+      "label": "波斯",
+      "degree": 6,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "阿哥斯",
+      "label": "阿哥斯",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "德凯利亚",
+      "label": "德凯利亚",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "安菲波利斯",
+      "label": "安菲波利斯",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "提奥彭帕斯",
+      "label": "提奥彭帕斯",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "克刺替伯斯",
+      "label": "克刺替伯斯",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "伯罗奔尼撒半岛",
+      "label": "伯罗奔尼撒半岛",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "斯巴达同盟",
+      "label": "斯巴达同盟",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "意大利",
+      "label": "意大利",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "德谟斯提尼",
+      "label": "德谟斯提尼",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "塔西陀",
+      "label": "塔西陀",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "萨拉斯特",
+      "label": "萨拉斯特",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "阿里安",
+      "label": "阿里安",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "普洛科比阿斯",
+      "label": "普洛科比阿斯",
+      "degree": 2,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "马基雅弗利",
+      "label": "马基雅弗利",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "卢克莱修",
+      "label": "卢克莱修",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "西塞罗",
+      "label": "西塞罗",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "李维",
+      "label": "李维",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "古典史学",
+      "label": "古典史学",
+      "degree": 2,
+      "group": 7,
+      "category": "Period"
+    },
+    {
+      "id": "文艺复兴运动",
+      "label": "文艺复兴运动",
+      "degree": 2,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "拜占廷",
+      "label": "拜占廷",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "中世纪基督教神学史观",
+      "label": "中世纪基督教神学史观",
+      "degree": 1,
+      "group": 7,
+      "category": "Period"
+    },
+    {
+      "id": "希腊城邦",
+      "label": "希腊城邦",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "克利俄丰",
+      "label": "克利俄丰",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "汉密尔顿",
+      "label": "汉密尔顿",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "亚里士多德",
+      "label": "亚里士多德",
+      "degree": 3,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "希腊的回声",
+      "label": "希腊的回声",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "商业阶层",
+      "label": "商业阶层",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "农业阶层",
+      "label": "农业阶层",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "利益",
+      "label": "利益",
+      "degree": 4,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "西西里",
+      "label": "西西里",
+      "degree": 10,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "正义",
+      "label": "正义",
+      "degree": 3,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "战争",
+      "label": "战争",
+      "degree": 20,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "萨摩斯叛离雅典",
+      "label": "萨摩斯叛离雅典",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "德",
+      "label": "德",
+      "degree": 4,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "手艺人",
+      "label": "手艺人",
+      "degree": 2,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "民主制城邦",
+      "label": "民主制城邦",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "农民",
+      "label": "农民",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "梭伦",
+      "label": "梭伦",
+      "degree": 15,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "休谟",
+      "label": "休谟",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "雅典民主",
+      "label": "雅典民主",
+      "degree": 6,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "施特劳斯",
+      "label": "施特劳斯",
+      "degree": 2,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "休谟政治论文选",
+      "label": "休谟政治论文选",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "无政府状态",
+      "label": "无政府状态",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "第二次伯罗奔尼撒战争",
+      "label": "第二次伯罗奔尼撒战争",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "克法洛斯父子",
+      "label": "克法洛斯父子",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "迈锡尼",
+      "label": "迈锡尼",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "叙拉古人及其同盟者",
+      "label": "叙拉古人及其同盟者",
+      "degree": 5,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "尼西亚斯",
+      "label": "尼西亚斯",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "德莫斯提尼",
+      "label": "德莫斯提尼",
+      "degree": 5,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "吉利普斯",
+      "label": "吉利普斯",
+      "degree": 6,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "意大利人及西西里的希腊人",
+      "label": "意大利人及西西里的希腊人",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "斯巴达人",
+      "label": "斯巴达人",
+      "degree": 7,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "阿基斯",
+      "label": "阿基斯",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "西西里战役",
+      "label": "西西里战役",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "被俘的雅典人",
+      "label": "被俘的雅典人",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "希腊时代",
+      "label": "希腊时代",
+      "degree": 0,
+      "group": 7,
+      "category": "Period"
+    },
+    {
+      "id": "雅典民主制",
+      "label": "雅典民主制",
+      "degree": 4,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "基托",
+      "label": "基托",
+      "degree": 2,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "阿卡奈人",
+      "label": "阿卡奈人",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "科尔居拉",
+      "label": "科尔居拉",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "罗克里斯",
+      "label": "罗克里斯",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "厄吉那人",
+      "label": "厄吉那人",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "麦加里德",
+      "label": "麦加里德",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "马其顿",
+      "label": "马其顿",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "第一次伯罗奔尼撒同盟大会",
+      "label": "第一次伯罗奔尼撒同盟大会",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "第二次伯罗奔尼撒同盟大会",
+      "label": "第二次伯罗奔尼撒同盟大会",
+      "degree": 3,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "雅典政制危机",
+      "label": "雅典政制危机",
+      "degree": 2,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "基拉",
+      "label": "基拉",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "克基拉",
+      "label": "克基拉",
+      "degree": 4,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "尼西阿斯",
+      "label": "尼西阿斯",
+      "degree": 9,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "公民大会",
+      "label": "公民大会",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "阿基丹姆",
+      "label": "阿基丹姆",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "尼撒战争史",
+      "label": "尼撒战争史",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "张广智",
+      "label": "张广智",
+      "degree": 3,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "马克思",
+      "label": "马克思",
+      "degree": 3,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "特洛耶战争",
+      "label": "特洛耶战争",
+      "degree": 2,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "社会经济发展",
+      "label": "社会经济发展",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "埃皮達姆斯",
+      "label": "埃皮達姆斯",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "黑勞士",
+      "label": "黑勞士",
+      "degree": 0,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "伯羅奔尼撒同盟",
+      "label": "伯羅奔尼撒同盟",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "帝国悖论",
+      "label": "帝国悖论",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "集权",
+      "label": "集权",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "暴君",
+      "label": "暴君",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "克劳塞维茨",
+      "label": "克劳塞维茨",
+      "degree": 3,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "福柯",
+      "label": "福柯",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "希腊世界",
+      "label": "希腊世界",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "战争观念",
+      "label": "战争观念",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "极大动荡",
+      "label": "极大动荡",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "黑海",
+      "label": "黑海",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "居魯士",
+      "label": "居魯士",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "萊山德",
+      "label": "萊山德",
+      "degree": 8,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "薩爾迪",
+      "label": "薩爾迪",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "亞西比德",
+      "label": "亞西比德",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "諾提昂海角",
+      "label": "諾提昂海角",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "卡利克拉提達斯",
+      "label": "卡利克拉提達斯",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "列斯堡",
+      "label": "列斯堡",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "阿爾吉努薩伊群島",
+      "label": "阿爾吉努薩伊群島",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "伯利克里的兒子",
+      "label": "伯利克里的兒子",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "公元前408年以後",
+      "label": "公元前408年以後",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "公元前406年春",
+      "label": "公元前406年春",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "卢卡奇",
+      "label": "卢卡奇",
+      "degree": 4,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "伯罗奔尼撒同盟",
+      "label": "伯罗奔尼撒同盟",
+      "degree": 6,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "泰勒斯",
+      "label": "泰勒斯",
+      "degree": 2,
+      "group": 7,
+      "category": "Period"
+    },
+    {
+      "id": "前苏格拉底哲人",
+      "label": "前苏格拉底哲人",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "霍布斯",
+      "label": "霍布斯",
+      "degree": 2,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "孔子",
+      "label": "孔子",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "商鞅",
+      "label": "商鞅",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "管仲",
+      "label": "管仲",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "希腊七贤",
+      "label": "希腊七贤",
+      "degree": 1,
+      "group": 7,
+      "category": "Period"
+    },
+    {
+      "id": "政治实践者",
+      "label": "政治实践者",
+      "degree": 2,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "实践思想者",
+      "label": "实践思想者",
+      "degree": 2,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "经济分析史",
+      "label": "经济分析史",
+      "degree": 2,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "熊彼特",
+      "label": "熊彼特",
+      "degree": 2,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "希波戰爭",
+      "label": "希波戰爭",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "比雷埃夫斯港",
+      "label": "比雷埃夫斯港",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "長牆",
+      "label": "長牆",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "波斯帝國",
+      "label": "波斯帝國",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "茨",
+      "label": "茨",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "希腊人",
+      "label": "希腊人",
+      "degree": 7,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "战争与和平",
+      "label": "战争与和平",
+      "degree": 3,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "伊奥尼亚地区",
+      "label": "伊奥尼亚地区",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "城邦",
+      "label": "城邦",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "科農",
+      "label": "科農",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "羊河口之戰",
+      "label": "羊河口之戰",
+      "degree": 4,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "麥加拉",
+      "label": "麥加拉",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "德凱利亞",
+      "label": "德凱利亞",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "毛泽东",
+      "label": "毛泽东",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "马克思主义唯物史观",
+      "label": "马克思主义唯物史观",
+      "degree": 2,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "恩格斯",
+      "label": "恩格斯",
+      "degree": 2,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "黑格尔",
+      "label": "黑格尔",
+      "degree": 4,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "朴素唯物主义历史观",
+      "label": "朴素唯物主义历史观",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "古希腊哲学家",
+      "label": "古希腊哲学家",
+      "degree": 2,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "马克思恩格斯",
+      "label": "马克思恩格斯",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "海德格尔",
+      "label": "海德格尔",
+      "degree": 0,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "七贤",
+      "label": "七贤",
+      "degree": 8,
+      "group": 7,
+      "category": "Period"
+    },
+    {
+      "id": "佩里昂德洛斯",
+      "label": "佩里昂德洛斯",
+      "degree": 1,
+      "group": 7,
+      "category": "Period"
+    },
+    {
+      "id": "克勒俄布洛斯",
+      "label": "克勒俄布洛斯",
+      "degree": 1,
+      "group": 7,
+      "category": "Period"
+    },
+    {
+      "id": "喀隆",
+      "label": "喀隆",
+      "degree": 1,
+      "group": 7,
+      "category": "Period"
+    },
+    {
+      "id": "彼亚斯",
+      "label": "彼亚斯",
+      "degree": 1,
+      "group": 7,
+      "category": "Period"
+    },
+    {
+      "id": "皮塔科斯",
+      "label": "皮塔科斯",
+      "degree": 1,
+      "group": 7,
+      "category": "Period"
+    },
+    {
+      "id": "法勒隆的德谟特里俄斯",
+      "label": "法勒隆的德谟特里俄斯",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "第欧根尼·拉尔修",
+      "label": "第欧根尼·拉尔修",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "执政官名录",
+      "label": "执政官名录",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "历史与阶级意识",
+      "label": "历史与阶级意识",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "波斯人",
+      "label": "波斯人",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "派罗斯战役",
+      "label": "派罗斯战役",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "普拉提亚攻克",
+      "label": "普拉提亚攻克",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "安菲波利战役",
+      "label": "安菲波利战役",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "第力安战役",
+      "label": "第力安战役",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "科西拉内乱",
+      "label": "科西拉内乱",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "科西拉",
+      "label": "科西拉",
+      "degree": 14,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "雅典民主制政变",
+      "label": "雅典民主制政变",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "麦加拉内讧",
+      "label": "麦加拉内讧",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "哲学家",
+      "label": "哲学家",
+      "degree": 2,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "政治家",
+      "label": "政治家",
+      "degree": 3,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "政治哲学家",
+      "label": "政治哲学家",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "文人",
+      "label": "文人",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "马基雅维里",
+      "label": "马基雅维里",
+      "degree": 2,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "理论构想",
+      "label": "理论构想",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "实践智慧",
+      "label": "实践智慧",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "现实政治",
+      "label": "现实政治",
+      "degree": 3,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "政治共同体",
+      "label": "政治共同体",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "諾帕克都",
+      "label": "諾帕克都",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "薩拉米",
+      "label": "薩拉米",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "比雷埃夫斯港口",
+      "label": "比雷埃夫斯港口",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "密提林",
+      "label": "密提林",
+      "degree": 8,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "米蒂利尼",
+      "label": "米蒂利尼",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "麦加拉",
+      "label": "麦加拉",
+      "degree": 5,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "雅典瘟疫",
+      "label": "雅典瘟疫",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "希洛奴隶",
+      "label": "希洛奴隶",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "希腊盟邦",
+      "label": "希腊盟邦",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "刺猬的审慎",
+      "label": "刺猬的审慎",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "色諾芬",
+      "label": "色諾芬",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "西西里島",
+      "label": "西西里島",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "小亞細亞",
+      "label": "小亞細亞",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "賴山德爾",
+      "label": "賴山德爾",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "比雷埃夫斯",
+      "label": "比雷埃夫斯",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "十年戰爭",
+      "label": "十年戰爭",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "西西里戰",
+      "label": "西西里戰",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "奥古斯都",
+      "label": "奥古斯都",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "亚历山大",
+      "label": "亚历山大",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "小政治共同体",
+      "label": "小政治共同体",
+      "degree": 2,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "民族国家",
+      "label": "民族国家",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "希腊同盟",
+      "label": "希腊同盟",
+      "degree": 2,
+      "group": 4,
+      "category": "Organization"
+    },
+    {
+      "id": "古希腊城邦",
+      "label": "古希腊城邦",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "古希腊宗教",
+      "label": "古希腊宗教",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "克法洛斯",
+      "label": "克法洛斯",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "公民身份",
+      "label": "公民身份",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "祭祀",
+      "label": "祭祀",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "法律权利",
+      "label": "法律权利",
+      "degree": 2,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "内乱",
+      "label": "内乱",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "希臘城邦",
+      "label": "希臘城邦",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "柏拉圖",
+      "label": "柏拉圖",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "馬其頓",
+      "label": "馬其頓",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "雅典公民权",
+      "label": "雅典公民权",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "克法罗斯",
+      "label": "克法罗斯",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "伯罗奔尼撒半岛沿海地区",
+      "label": "伯罗奔尼撒半岛沿海地区",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "色雷斯的卡尔西斯",
+      "label": "色雷斯的卡尔西斯",
+      "degree": 1,
+      "group": 4,
+      "category": "Organization"
+    },
+    {
+      "id": "波提狄亚",
+      "label": "波提狄亚",
+      "degree": 3,
+      "group": 4,
+      "category": "Organization"
+    },
+    {
+      "id": "卡爾息底亞",
+      "label": "卡爾息底亞",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "德尔斐神庙",
+      "label": "德尔斐神庙",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "科林斯人",
+      "label": "科林斯人",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "荣誉",
+      "label": "荣誉",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "希臘世界",
+      "label": "希臘世界",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "柏拉图",
+      "label": "柏拉图",
+      "degree": 7,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "開俄斯",
+      "label": "開俄斯",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "厄立特利亞",
+      "label": "厄立特利亞",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "羅得",
+      "label": "羅得",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "薩摩斯",
+      "label": "薩摩斯",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "寡頭政變",
+      "label": "寡頭政變",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "普拉提亞",
+      "label": "普拉提亞",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "蘇尼恩",
+      "label": "蘇尼恩",
+      "degree": 0,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "波塞冬神殿",
+      "label": "波塞冬神殿",
+      "degree": 0,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "卡爾西斯人",
+      "label": "卡爾西斯人",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "波提狄亞人",
+      "label": "波提狄亞人",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "阿卡納尼亞",
+      "label": "阿卡納尼亞",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "帕特拉斯海戰",
+      "label": "帕特拉斯海戰",
+      "degree": 5,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "蘇格拉底",
+      "label": "蘇格拉底",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "培特利",
+      "label": "培特利",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "埃維那斯河口",
+      "label": "埃維那斯河口",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "伯罗奔尼撒人",
+      "label": "伯罗奔尼撒人",
+      "degree": 3,
+      "group": 7,
+      "category": "Period"
+    },
+    {
+      "id": "克里特",
+      "label": "克里特",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "拉栖代梦人",
+      "label": "拉栖代梦人",
+      "degree": 11,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "理想国",
+      "label": "理想国",
+      "degree": 3,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "自我保存",
+      "label": "自我保存",
+      "degree": 4,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "克里特立法",
+      "label": "克里特立法",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "兰克",
+      "label": "兰克",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "客观主义史学",
+      "label": "客观主义史学",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "无产阶级",
+      "label": "无产阶级",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "新中国",
+      "label": "新中国",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "麦考莱",
+      "label": "麦考莱",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "雅典斯巴达战争史",
+      "label": "雅典斯巴达战争史",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "尼西阿斯和约",
+      "label": "尼西阿斯和约",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "远征西西里",
+      "label": "远征西西里",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "狄西里亚战争",
+      "label": "狄西里亚战争",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "爱奥尼亚战争",
+      "label": "爱奥尼亚战争",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "非希腊人世界",
+      "label": "非希腊人世界",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "长城",
+      "label": "长城",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "庇里犹斯",
+      "label": "庇里犹斯",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "萨拉米斯海战",
+      "label": "萨拉米斯海战",
+      "degree": 2,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "权势欲",
+      "label": "权势欲",
+      "degree": 0,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "多利亚人",
+      "label": "多利亚人",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "黃金時代",
+      "label": "黃金時代",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "希臘",
+      "label": "希臘",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "馬其頓國王腓力二世",
+      "label": "馬其頓國王腓力二世",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "希臘文明",
+      "label": "希臘文明",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "敘拉古",
+      "label": "敘拉古",
+      "degree": 17,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "波桑尼阿斯",
+      "label": "波桑尼阿斯",
+      "degree": 3,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "伊汤姆",
+      "label": "伊汤姆",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "吕库古",
+      "label": "吕库古",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "伊庇丹努事件",
+      "label": "伊庇丹努事件",
+      "degree": 4,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "科西拉事件",
+      "label": "科西拉事件",
+      "degree": 2,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "普鲁塔克",
+      "label": "普鲁塔克",
+      "degree": 4,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "希腊罗马名人传",
+      "label": "希腊罗马名人传",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "福特",
+      "label": "福特",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "统治的热望",
+      "label": "统治的热望",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "伯罗奔尼撒盟邦",
+      "label": "伯罗奔尼撒盟邦",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "僭主政体",
+      "label": "僭主政体",
+      "degree": 4,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "致命分裂",
+      "label": "致命分裂",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "民主制变革",
+      "label": "民主制变革",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "政治实践者的局限",
+      "label": "政治实践者的局限",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "河",
+      "label": "河",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "赫拉克利特",
+      "label": "赫拉克利特",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "卢梭",
+      "label": "卢梭",
+      "degree": 2,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "康德",
+      "label": "康德",
+      "degree": 3,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "波提狄亚事件",
+      "label": "波提狄亚事件",
+      "degree": 4,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "斯提尼拉伊达",
+      "label": "斯提尼拉伊达",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "德谟克利特",
+      "label": "德谟克利特",
+      "degree": 5,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "薇依",
+      "label": "薇依",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "尼采",
+      "label": "尼采",
+      "degree": 3,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "基督教",
+      "label": "基督教",
+      "degree": 2,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "奥德修",
+      "label": "奥德修",
+      "degree": 2,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "德国浪漫派",
+      "label": "德国浪漫派",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "公元前404年",
+      "label": "公元前404年",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "公元前411年冬季",
+      "label": "公元前411年冬季",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "马塞林",
+      "label": "马塞林",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "荷马史诗",
+      "label": "荷马史诗",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "洛克",
+      "label": "洛克",
+      "degree": 2,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "伯罗奔尼撒同盟大会",
+      "label": "伯罗奔尼撒同盟大会",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "普利姆密里昂",
+      "label": "普利姆密里昂",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "斯巴達王阿基斯",
+      "label": "斯巴達王阿基斯",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "公元前413年春",
+      "label": "公元前413年春",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "雅典同盟",
+      "label": "雅典同盟",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "希腊哲学",
+      "label": "希腊哲学",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "自然正义",
+      "label": "自然正义",
+      "degree": 2,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "智者",
+      "label": "智者",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "阿伽门农",
+      "label": "阿伽门农",
+      "degree": 6,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "特洛伊远征军",
+      "label": "特洛伊远征军",
+      "degree": 2,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "海伦",
+      "label": "海伦",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "丁达流斯",
+      "label": "丁达流斯",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "雅典公民議會",
+      "label": "雅典公民議會",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "阿爾吉努薩伊海戰",
+      "label": "阿爾吉努薩伊海戰",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "拉姆普薩科斯",
+      "label": "拉姆普薩科斯",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "羊河口",
+      "label": "羊河口",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "公元前405年夏末",
+      "label": "公元前405年夏末",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "拉栖代梦",
+      "label": "拉栖代梦",
+      "degree": 16,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "雅典艦隊",
+      "label": "雅典艦隊",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "开利阿人",
+      "label": "开利阿人",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "帕德嫩神庙",
+      "label": "帕德嫩神庙",
+      "degree": 0,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "施米特",
+      "label": "施米特",
+      "degree": 2,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "希腊诸邦",
+      "label": "希腊诸邦",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "政府论",
+      "label": "政府论",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "单纯理性限度内的宗教",
+      "label": "单纯理性限度内的宗教",
+      "degree": 0,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "敌友划分",
+      "label": "敌友划分",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "爱琴海地区",
+      "label": "爱琴海地区",
+      "degree": 2,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "卡利克勒斯",
+      "label": "卡利克勒斯",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "法律",
+      "label": "法律",
+      "degree": 5,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "权势",
+      "label": "权势",
+      "degree": 3,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "庇里犹斯港",
+      "label": "庇里犹斯港",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "麦累",
+      "label": "麦累",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "政治的概念",
+      "label": "政治的概念",
+      "degree": 3,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "敌意",
+      "label": "敌意",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "敌对性行动",
+      "label": "敌对性行动",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "刘宗坤",
+      "label": "刘宗坤",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "朱雁冰",
+      "label": "朱雁冰",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "奧林匹昂",
+      "label": "奧林匹昂",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "卡塔那",
+      "label": "卡塔那",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "斯巴達",
+      "label": "斯巴達",
+      "degree": 22,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "麥山那",
+      "label": "麥山那",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "那克索斯",
+      "label": "那克索斯",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "西塞爾人",
+      "label": "西塞爾人",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "迦太基人",
+      "label": "迦太基人",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "埃特魯斯坎人",
+      "label": "埃特魯斯坎人",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "義大利沿海城市",
+      "label": "義大利沿海城市",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "厄庇波利",
+      "label": "厄庇波利",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "阿哥斯人",
+      "label": "阿哥斯人",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "美感和崇高感",
+      "label": "美感和崇高感",
+      "degree": 2,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "何兆武",
+      "label": "何兆武",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "商务印书馆",
+      "label": "商务印书馆",
+      "degree": 2,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "伯罗奔尼撒诸邦",
+      "label": "伯罗奔尼撒诸邦",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "贴撒利人",
+      "label": "贴撒利人",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "亚加亚人",
+      "label": "亚加亚人",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "普拉提亞人",
+      "label": "普拉提亞人",
+      "degree": 2,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "底比斯人",
+      "label": "底比斯人",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "科爾居拉人",
+      "label": "科爾居拉人",
+      "degree": 2,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "林地尼人",
+      "label": "林地尼人",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "地震",
+      "label": "地震",
+      "degree": 3,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "德莫斯特",
+      "label": "德莫斯特",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "英雄史观",
+      "label": "英雄史观",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "人性",
+      "label": "人性",
+      "degree": 3,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "阵亡将士国葬典礼",
+      "label": "阵亡将士国葬典礼",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "普拉提亚事件",
+      "label": "普拉提亚事件",
+      "degree": 3,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "忒拜",
+      "label": "忒拜",
+      "degree": 4,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "波奥提亚",
+      "label": "波奥提亚",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "敌意引起敌意",
+      "label": "敌意引起敌意",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "战争意图的猜疑",
+      "label": "战争意图的猜疑",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "天人感应",
+      "label": "天人感应",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "灾异",
+      "label": "灾异",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "神谶",
+      "label": "神谶",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "公元前426年地震",
+      "label": "公元前426年地震",
+      "degree": 2,
+      "group": 7,
+      "category": "Period"
+    },
+    {
+      "id": "雅典远征军",
+      "label": "雅典远征军",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "奴隶主阶级",
+      "label": "奴隶主阶级",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "科学的方法",
+      "label": "科学的方法",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "唯心主义的天命观",
+      "label": "唯心主义的天命观",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "朴素唯物主义的历史观",
+      "label": "朴素唯物主义的历史观",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "克索涅索",
+      "label": "克索涅索",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "好客海",
+      "label": "好客海",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "埃及",
+      "label": "埃及",
+      "degree": 1,
+      "group": 8,
+      "category": "Artifact"
+    },
+    {
+      "id": "斐狄亚斯",
+      "label": "斐狄亚斯",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "阿斯帕西亚",
+      "label": "阿斯帕西亚",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "克瑞翁",
+      "label": "克瑞翁",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "波奥提亚人",
+      "label": "波奥提亚人",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "沃尔泽",
+      "label": "沃尔泽",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "零售商",
+      "label": "零售商",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "手工业者",
+      "label": "手工业者",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "船长",
+      "label": "船长",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "康福德",
+      "label": "康福德",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "科爾居拉",
+      "label": "科爾居拉",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "美塞尼亞人",
+      "label": "美塞尼亞人",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "安菲波里",
+      "label": "安菲波里",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "伯拉西達",
+      "label": "伯拉西達",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "托倫",
+      "label": "托倫",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "为生存而斗争",
+      "label": "为生存而斗争",
+      "degree": 3,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "庇西斯特拉图",
+      "label": "庇西斯特拉图",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "王者执政官",
+      "label": "王者执政官",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "督战官",
+      "label": "督战官",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "执政官",
+      "label": "执政官",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "司法执政官",
+      "label": "司法执政官",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "战神山议事会",
+      "label": "战神山议事会",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "贡斯当",
+      "label": "贡斯当",
+      "degree": 0,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "利卡斯",
+      "label": "利卡斯",
+      "degree": 3,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "阿斯泰奥卡斯",
+      "label": "阿斯泰奥卡斯",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "替萨斐尼",
+      "label": "替萨斐尼",
+      "degree": 2,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "卡尔基丢斯",
+      "label": "卡尔基丢斯",
+      "degree": 1,
+      "group": 4,
+      "category": "Organization"
+    },
+    {
+      "id": "泰里蒙涅斯",
+      "label": "泰里蒙涅斯",
+      "degree": 2,
+      "group": 4,
+      "category": "Organization"
+    },
+    {
+      "id": "伯罗奔尼撒联军",
+      "label": "伯罗奔尼撒联军",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "伊奥尼亚",
+      "label": "伊奥尼亚",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "波斯-拉栖代梦同盟条约",
+      "label": "波斯-拉栖代梦同盟条约",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "地峡",
+      "label": "地峡",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "德拉古",
+      "label": "德拉古",
+      "degree": 1,
+      "group": 7,
+      "category": "Period"
+    },
+    {
+      "id": "裴狄亚安人",
+      "label": "裴狄亚安人",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "得阿克里安人",
+      "label": "得阿克里安人",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "巴拉利安人",
+      "label": "巴拉利安人",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "德拉古法典",
+      "label": "德拉古法典",
+      "degree": 2,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "梭伦改革",
+      "label": "梭伦改革",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "贵族",
+      "label": "贵族",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "新富裕阶层",
+      "label": "新富裕阶层",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "平民",
+      "label": "平民",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "波斯王",
+      "label": "波斯王",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "第二次条约",
+      "label": "第二次条约",
+      "degree": 5,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "超凡魅力领袖",
+      "label": "超凡魅力领袖",
+      "degree": 8,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "达人",
+      "label": "达人",
+      "degree": 2,
+      "group": 4,
+      "category": "Organization"
+    },
+    {
+      "id": "派罗斯",
+      "label": "派罗斯",
+      "degree": 2,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "人民大学出版社",
+      "label": "人民大学出版社",
+      "degree": 0,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "五百斗者",
+      "label": "五百斗者",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "骑士",
+      "label": "骑士",
+      "degree": 3,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "双牛者",
+      "label": "双牛者",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "日佣",
+      "label": "日佣",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "九执政官",
+      "label": "九执政官",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "司库官",
+      "label": "司库官",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "公卖官",
+      "label": "公卖官",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "警吏",
+      "label": "警吏",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "国库监",
+      "label": "国库监",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "四百人议会",
+      "label": "四百人议会",
+      "degree": 2,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "公民陪审法庭",
+      "label": "公民陪审法庭",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "解负令",
+      "label": "解负令",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "四百人会议",
+      "label": "四百人会议",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "贵族院",
+      "label": "贵族院",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "佛米欧",
+      "label": "佛米欧",
+      "degree": 6,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "赫摩克拉底",
+      "label": "赫摩克拉底",
+      "degree": 6,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "韦伯",
+      "label": "韦伯",
+      "degree": 3,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "尼西阿斯和約",
+      "label": "尼西阿斯和約",
+      "degree": 3,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "赫爾密斯像被毀事件",
+      "label": "赫爾密斯像被毀事件",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "遠征軍",
+      "label": "遠征軍",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "利吉姆",
+      "label": "利吉姆",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "克里斯提尼",
+      "label": "克里斯提尼",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "海岸派",
+      "label": "海岸派",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "平原派",
+      "label": "平原派",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "山地派",
+      "label": "山地派",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "五百人议事会",
+      "label": "五百人议事会",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "克里斯提尼改革",
+      "label": "克里斯提尼改革",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "公民等级",
+      "label": "公民等级",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "四百人会议成员",
+      "label": "四百人会议成员",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "次要公职",
+      "label": "次要公职",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "重要公职",
+      "label": "重要公职",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "地中海",
+      "label": "地中海",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "阿拉伯",
+      "label": "阿拉伯",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "陪审法庭",
+      "label": "陪审法庭",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "圆身船",
+      "label": "圆身船",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "长身船",
+      "label": "长身船",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "葡萄酒",
+      "label": "葡萄酒",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "橄榄油",
+      "label": "橄榄油",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "金属制品",
+      "label": "金属制品",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "大理石",
+      "label": "大理石",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "铜",
+      "label": "铜",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "铅",
+      "label": "铅",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "银",
+      "label": "银",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "神人合一的状态",
+      "label": "神人合一的状态",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "官僚制权威",
+      "label": "官僚制权威",
+      "degree": 0,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "传统权威",
+      "label": "传统权威",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "理性权威",
+      "label": "理性权威",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "家长制",
+      "label": "家长制",
+      "degree": 0,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "家产制",
+      "label": "家产制",
+      "degree": 0,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "等级制",
+      "label": "等级制",
+      "degree": 0,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "经济与社会",
+      "label": "经济与社会",
+      "degree": 2,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "议长委员会(Prytany)",
+      "label": "议长委员会(Prytany)",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "僭主制",
+      "label": "僭主制",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "韦伯作品集",
+      "label": "韦伯作品集",
+      "degree": 2,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "革命",
+      "label": "革命",
+      "degree": 2,
+      "group": 4,
+      "category": "Organization"
+    },
+    {
+      "id": "阎克文",
+      "label": "阎克文",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "钱永祥",
+      "label": "钱永祥",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "苏联历史学者狄雅科夫",
+      "label": "苏联历史学者狄雅科夫",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "苏联历史学者尼科尔斯基",
+      "label": "苏联历史学者尼科尔斯基",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "古代世界史",
+      "label": "古代世界史",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "经济资源",
+      "label": "经济资源",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "唯物史观",
+      "label": "唯物史观",
+      "degree": 2,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "马克思主义",
+      "label": "马克思主义",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "普罗米修斯",
+      "label": "普罗米修斯",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "宙斯",
+      "label": "宙斯",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "赫尔墨斯",
+      "label": "赫尔墨斯",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "羞耻",
+      "label": "羞耻",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "阿卡纳尼亚人",
+      "label": "阿卡纳尼亚人",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "安菲洛奇亚人",
+      "label": "安菲洛奇亚人",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "阿尔基达斯",
+      "label": "阿尔基达斯",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "麦索涅",
+      "label": "麦索涅",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "卡尔基斯人",
+      "label": "卡尔基斯人",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "阿堪苏斯人",
+      "label": "阿堪苏斯人",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "毕达哥拉斯学派",
+      "label": "毕达哥拉斯学派",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "英国下议院",
+      "label": "英国下议院",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "奴隶",
+      "label": "奴隶",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "民主",
+      "label": "民主",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "政治德性",
+      "label": "政治德性",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "民众",
+      "label": "民众",
+      "degree": 8,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "启蒙",
+      "label": "启蒙",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "库隆污染事件",
+      "label": "库隆污染事件",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "地米斯托克利",
+      "label": "地米斯托克利",
+      "degree": 7,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "政和决议",
+      "label": "政和决议",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "政治领袖",
+      "label": "政治领袖",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "民主制",
+      "label": "民主制",
+      "degree": 4,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "克里斯玛式的政治领袖",
+      "label": "克里斯玛式的政治领袖",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "托克维尔",
+      "label": "托克维尔",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "多数人表决",
+      "label": "多数人表决",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "意见",
+      "label": "意见",
+      "degree": 2,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "真理",
+      "label": "真理",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "为公之心",
+      "label": "为公之心",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "集体任性",
+      "label": "集体任性",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "代议制",
+      "label": "代议制",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "雅典遠征軍",
+      "label": "雅典遠征軍",
+      "degree": 4,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "厄基斯泰",
+      "label": "厄基斯泰",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "棲來那斯",
+      "label": "棲來那斯",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "拉馬卡斯",
+      "label": "拉馬卡斯",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "赫爾密斯神像案件",
+      "label": "赫爾密斯神像案件",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "雅典力量",
+      "label": "雅典力量",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "福里尼卡斯",
+      "label": "福里尼卡斯",
+      "degree": 8,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "明智",
+      "label": "明智",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "米利都战役",
+      "label": "米利都战役",
+      "degree": 2,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "贵族制",
+      "label": "贵族制",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "选举",
+      "label": "选举",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "波斯总督替萨斐尼",
+      "label": "波斯总督替萨斐尼",
+      "degree": 2,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "阿里斯提德",
+      "label": "阿里斯提德",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "麦加拉法令",
+      "label": "麦加拉法令",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "明智德性",
+      "label": "明智德性",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "政治实践能力",
+      "label": "政治实践能力",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "政治道德",
+      "label": "政治道德",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "政治操守",
+      "label": "政治操守",
+      "degree": 3,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "财政腐败",
+      "label": "财政腐败",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "政治蛊惑者",
+      "label": "政治蛊惑者",
+      "degree": 2,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "忒拜人",
+      "label": "忒拜人",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "普拉提亚人",
+      "label": "普拉提亚人",
+      "degree": 8,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "能动易变",
+      "label": "能动易变",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "不可更变性",
+      "label": "不可更变性",
+      "degree": 0,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "哈林顿",
+      "label": "哈林顿",
+      "degree": 2,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "尼基阿斯和约",
+      "label": "尼基阿斯和约",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "阿尔哥斯",
+      "label": "阿尔哥斯",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "萨利修斯",
+      "label": "萨利修斯",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "希洛人暴动",
+      "label": "希洛人暴动",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "波斯战争",
+      "label": "波斯战争",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "希罗多德《历史》",
+      "label": "希罗多德《历史》",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "敘拉古人及其同盟者",
+      "label": "敘拉古人及其同盟者",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "敘拉古戰役",
+      "label": "敘拉古戰役",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "欧里庇得斯",
+      "label": "欧里庇得斯",
+      "degree": 3,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "希波吕托斯",
+      "label": "希波吕托斯",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "真诚",
+      "label": "真诚",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "伪装矫饰",
+      "label": "伪装矫饰",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "奥林匹斯众神",
+      "label": "奥林匹斯众神",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "力量",
+      "label": "力量",
+      "degree": 5,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "统治资质",
+      "label": "统治资质",
+      "degree": 2,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "安德洛玛刻",
+      "label": "安德洛玛刻",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "大洋国",
+      "label": "大洋国",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "一与多的斗争",
+      "label": "一与多的斗争",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "伯里克利葬礼演说",
+      "label": "伯里克利葬礼演说",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "道德观念",
+      "label": "道德观念",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "逻各斯",
+      "label": "逻各斯",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "叙拉古人",
+      "label": "叙拉古人",
+      "degree": 4,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "叙拉古",
+      "label": "叙拉古",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "海战",
+      "label": "海战",
+      "degree": 0,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "撤退",
+      "label": "撤退",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "马拉松战役",
+      "label": "马拉松战役",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "萨拉米海战",
+      "label": "萨拉米海战",
+      "degree": 0,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "普雷斯托阿纳克斯",
+      "label": "普雷斯托阿纳克斯",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "特拉西鲁斯",
+      "label": "特拉西鲁斯",
+      "degree": 2,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "阿尔基弗隆斯",
+      "label": "阿尔基弗隆斯",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "宙斯神庙",
+      "label": "宙斯神庙",
+      "degree": 0,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "平等",
+      "label": "平等",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "自由",
+      "label": "自由",
+      "degree": 2,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "密提林人",
+      "label": "密提林人",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "政治议会",
+      "label": "政治议会",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "科倫尼亞",
+      "label": "科倫尼亞",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "阿格立真坦",
+      "label": "阿格立真坦",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "德莫斯",
+      "label": "德莫斯",
+      "degree": 0,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "观剧津贴",
+      "label": "观剧津贴",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "斐迪亚斯",
+      "label": "斐迪亚斯",
+      "degree": 1,
+      "group": 7,
+      "category": "Period"
+    },
+    {
+      "id": "希波克拉特",
+      "label": "希波克拉特",
+      "degree": 1,
+      "group": 7,
+      "category": "Period"
+    },
+    {
+      "id": "商船及双层桨座战船",
+      "label": "商船及双层桨座战船",
+      "degree": 0,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "权力意志",
+      "label": "权力意志",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "欧里庇得斯悲剧集",
+      "label": "欧里庇得斯悲剧集",
+      "degree": 4,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "伟人",
+      "label": "伟人",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "平等嫉妒",
+      "label": "平等嫉妒",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "个人操守",
+      "label": "个人操守",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "愛昂",
+      "label": "愛昂",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "密星那斯人",
+      "label": "密星那斯人",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "普雷斯托安那克斯",
+      "label": "普雷斯托安那克斯",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "安菲波里之役",
+      "label": "安菲波里之役",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "色雷斯地區",
+      "label": "色雷斯地區",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "演说者",
+      "label": "演说者",
+      "degree": 0,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "政治谎言",
+      "label": "政治谎言",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "刑罚",
+      "label": "刑罚",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "贫穷",
+      "label": "贫穷",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "野心",
+      "label": "野心",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "傲慢",
+      "label": "傲慢",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "攸利密頓",
+      "label": "攸利密頓",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "月食",
+      "label": "月食",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "周作人",
+      "label": "周作人",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "中国对外翻译出版公司",
+      "label": "中国对外翻译出版公司",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "路易十四",
+      "label": "路易十四",
+      "degree": 2,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "伏尔泰",
+      "label": "伏尔泰",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "贝壳放逐法",
+      "label": "贝壳放逐法",
+      "degree": 2,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "煽动者",
+      "label": "煽动者",
+      "degree": 2,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "同盟",
+      "label": "同盟",
+      "degree": 3,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "放逐者",
+      "label": "放逐者",
+      "degree": 0,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "暴政",
+      "label": "暴政",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "专制",
+      "label": "专制",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "分裂",
+      "label": "分裂",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "人的伟大",
+      "label": "人的伟大",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "神",
+      "label": "神",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "现实问题",
+      "label": "现实问题",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "社会丑恶现象",
+      "label": "社会丑恶现象",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "物性论",
+      "label": "物性论",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "演说词",
+      "label": "演说词",
+      "degree": 2,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "历史著作",
+      "label": "历史著作",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "希腊奴隶制城邦",
+      "label": "希腊奴隶制城邦",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "古典时代",
+      "label": "古典时代",
+      "degree": 2,
+      "group": 7,
+      "category": "Period"
+    },
+    {
+      "id": "正义观念",
+      "label": "正义观念",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "希腊民主时代",
+      "label": "希腊民主时代",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "民主政治",
+      "label": "民主政治",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "政治政策",
+      "label": "政治政策",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "后世",
+      "label": "后世",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "航海活动",
+      "label": "航海活动",
+      "degree": 1,
+      "group": 4,
+      "category": "Organization"
+    },
+    {
+      "id": "雅典將軍",
+      "label": "雅典將軍",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "理论家",
+      "label": "理论家",
+      "degree": 5,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "政治是战争的继续",
+      "label": "政治是战争的继续",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "科学研究工作者",
+      "label": "科学研究工作者",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "历史唯物主义",
+      "label": "历史唯物主义",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "修昔底德与《伯罗奔尼撒战争史》",
+      "label": "修昔底德与《伯罗奔尼撒战争史》",
+      "degree": 1,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "哲人政治家",
+      "label": "哲人政治家",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "愛琴海",
+      "label": "愛琴海",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "血缘关系",
+      "label": "血缘关系",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "貧民起義",
+      "label": "貧民起義",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "希臘霸權",
+      "label": "希臘霸權",
+      "degree": 2,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "波提狄亞",
+      "label": "波提狄亞",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "希腊联军",
+      "label": "希腊联军",
+      "degree": 2,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "强者为尊",
+      "label": "强者为尊",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "自然状态",
+      "label": "自然状态",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "美德",
+      "label": "美德",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "古希腊世界",
+      "label": "古希腊世界",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "欺诈",
+      "label": "欺诈",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "雙重城牆",
+      "label": "雙重城牆",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "幸福,同情",
+      "label": "幸福,同情",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "敘拉古城",
+      "label": "敘拉古城",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "侵犯,报复",
+      "label": "侵犯,报复",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "德性",
+      "label": "德性",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "力量,利益",
+      "label": "力量,利益",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "贵族观念",
+      "label": "贵族观念",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "约定",
+      "label": "约定",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "海上力量",
+      "label": "海上力量",
+      "degree": 1,
+      "group": 3,
+      "category": "Event"
+    },
+    {
+      "id": "特洛耶",
+      "label": "特洛耶",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "荣誉感和羞耻心",
+      "label": "荣誉感和羞耻心",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "拉栖代梦与雅典的对立",
+      "label": "拉栖代梦与雅典的对立",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "公元前五世纪末期",
+      "label": "公元前五世纪末期",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "雅典使者",
+      "label": "雅典使者",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "国家利益",
+      "label": "国家利益",
+      "degree": 2,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "幸福生活",
+      "label": "幸福生活",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "强者定义",
+      "label": "强者定义",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "政治失德",
+      "label": "政治失德",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "公民会议",
+      "label": "公民会议",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "信仰",
+      "label": "信仰",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "使命",
+      "label": "使命",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "人类",
+      "label": "人类",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "雅典公民大会",
+      "label": "雅典公民大会",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "民主社会",
+      "label": "民主社会",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "错误",
+      "label": "错误",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "现代民主",
+      "label": "现代民主",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "麥山那人",
+      "label": "麥山那人",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "卷八",
+      "label": "卷八",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "雅典和斯巴达",
+      "label": "雅典和斯巴达",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "雅典政坛",
+      "label": "雅典政坛",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "执政七年",
+      "label": "执政七年",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "阿里斯托芬",
+      "label": "阿里斯托芬",
+      "degree": 2,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "每个其他职务",
+      "label": "每个其他职务",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "希腊和波斯",
+      "label": "希腊和波斯",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "贤",
+      "label": "贤",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "雅典内政",
+      "label": "雅典内政",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "阿喀琉斯",
+      "label": "阿喀琉斯",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "狐狸",
+      "label": "狐狸",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "叙拉古政府官员",
+      "label": "叙拉古政府官员",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "经济繁荣",
+      "label": "经济繁荣",
+      "degree": 1,
+      "group": 2,
+      "category": "Place"
+    },
+    {
+      "id": "原子理论",
+      "label": "原子理论",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "冒险",
+      "label": "冒险",
+      "degree": 3,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "海戰",
+      "label": "海戰",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "命运之无常",
+      "label": "命运之无常",
+      "degree": 1,
+      "group": 9,
+      "category": "Other"
+    },
+    {
+      "id": "违背癖好",
+      "label": "违背癖好",
+      "degree": 1,
+      "group": 1,
+      "category": "Person"
+    },
+    {
+      "id": "路易十四时代",
+      "label": "路易十四时代",
+      "degree": 2,
+      "group": 5,
+      "category": "Document"
+    },
+    {
+      "id": "权力",
+      "label": "权力",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    },
+    {
+      "id": "统治安全",
+      "label": "统治安全",
+      "degree": 1,
+      "group": 6,
+      "category": "Concept"
+    }
+  ],
+  "links": [
+    {
+      "source": "安菲玻里",
+      "target": "伯拉西达"
+    },
+    {
+      "source": "安菲玻里",
+      "target": "雅典"
+    },
+    {
+      "source": "安菲玻里",
+      "target": "斯巴达"
+    },
+    {
+      "source": "宽容",
+      "target": "戴奥多都斯"
+    },
+    {
+      "source": "宽容",
+      "target": "修昔底德"
+    },
+    {
+      "source": "宽容",
+      "target": "雅典"
+    },
+    {
+      "source": "帝国",
+      "target": "施特劳斯"
+    },
+    {
+      "source": "帝国",
+      "target": "雅典"
+    },
+    {
+      "source": "帝国",
+      "target": "小政治共同体"
+    },
+    {
+      "source": "帝国",
+      "target": "民族国家"
+    },
+    {
+      "source": "爱琴海",
+      "target": "开利阿人"
+    },
+    {
+      "source": "爱琴海",
+      "target": "雅典"
+    },
+    {
+      "source": "伯拉西达",
+      "target": "哈格农"
+    },
+    {
+      "source": "伯拉西达",
+      "target": "安菲玻里战役"
+    },
+    {
+      "source": "伯拉西达",
+      "target": "超凡魅力领袖"
+    },
+    {
+      "source": "伯拉西达",
+      "target": "斯巴达"
+    },
+    {
+      "source": "伯拉西达",
+      "target": "阿尔基达斯"
+    },
+    {
+      "source": "伯拉西达",
+      "target": "麦索涅"
+    },
+    {
+      "source": "伯拉西达",
+      "target": "派罗斯战役"
+    },
+    {
+      "source": "伯拉西达",
+      "target": "卡尔基斯人"
+    },
+    {
+      "source": "伯拉西达",
+      "target": "麦加拉"
+    },
+    {
+      "source": "伯拉西达",
+      "target": "安菲波利"
+    },
+    {
+      "source": "伯拉西达",
+      "target": "阿堪苏斯人"
+    },
+    {
+      "source": "伯拉西达",
+      "target": "雅典"
+    },
+    {
+      "source": "克里昂",
+      "target": "雅典"
+    },
+    {
+      "source": "克里昂",
+      "target": "修昔底德"
+    },
+    {
+      "source": "克里昂",
+      "target": "尼基阿斯"
+    },
+    {
+      "source": "克里昂",
+      "target": "安菲波里之戰"
+    },
+    {
+      "source": "克里昂",
+      "target": "安菲波利斯"
+    },
+    {
+      "source": "克里昂",
+      "target": "色雷斯地區"
+    },
+    {
+      "source": "克里昂",
+      "target": "托倫"
+    },
+    {
+      "source": "克里昂",
+      "target": "执政七年"
+    },
+    {
+      "source": "克里昂",
+      "target": "政治操守"
+    },
+    {
+      "source": "克里昂",
+      "target": "戴奥多都斯"
+    },
+    {
+      "source": "克里昂",
+      "target": "密提林"
+    },
+    {
+      "source": "克里昂",
+      "target": "弥罗斯对话"
+    },
+    {
+      "source": "克里昂",
+      "target": "安菲波里"
+    },
+    {
+      "source": "克里昂",
+      "target": "安菲波里之役"
+    },
+    {
+      "source": "克里昂",
+      "target": "密星那斯人"
+    },
+    {
+      "source": "戴奥多都斯",
+      "target": "雅典"
+    },
+    {
+      "source": "戴奥多都斯",
+      "target": "密提林叛变"
+    },
+    {
+      "source": "戴奥多都斯",
+      "target": "伯罗奔尼撒战争"
+    },
+    {
+      "source": "戴奥多都斯",
+      "target": "密提林"
+    },
+    {
+      "source": "戴奥多都斯",
+      "target": "修昔底德"
+    },
+    {
+      "source": "戴奥多都斯",
+      "target": "政治议会"
+    },
+    {
+      "source": "戴奥多都斯",
+      "target": "政治谎言"
+    },
+    {
+      "source": "戴奥多都斯",
+      "target": "刑罚"
+    },
+    {
+      "source": "戴奥多都斯",
+      "target": "利益"
+    },
+    {
+      "source": "戴奥多都斯",
+      "target": "煽动者"
+    },
+    {
+      "source": "戴奥多都斯",
+      "target": "统治安全"
+    },
+    {
+      "source": "阿卡奈",
+      "target": "阿基达马斯"
+    },
+    {
+      "source": "阿卡奈",
+      "target": "斯巴达"
+    },
+    {
+      "source": "重装步兵",
+      "target": "雅典"
+    },
+    {
+      "source": "骑兵",
+      "target": "雅典"
+    },
+    {
+      "source": "徒步射手",
+      "target": "雅典"
+    },
+    {
+      "source": "三列桨战舰",
+      "target": "雅典"
+    },
+    {
+      "source": "三列桨战舰",
+      "target": "科林斯"
+    },
+    {
+      "source": "同盟者",
+      "target": "伯里克利"
+    },
+    {
+      "source": "同盟者",
+      "target": "雅典"
+    },
+    {
+      "source": "哈格农",
+      "target": "安菲波利"
+    },
+    {
+      "source": "安菲波利",
+      "target": "雅典"
+    },
+    {
+      "source": "修昔底德",
+      "target": "伯罗奔尼撒战争史"
+    },
+    {
+      "source": "修昔底德",
+      "target": "伯里克利"
+    },
+    {
+      "source": "修昔底德",
+      "target": "雅典"
+    },
+    {
+      "source": "修昔底德",
+      "target": "希罗多德"
+    },
+    {
+      "source": "修昔底德",
+      "target": "密提林叛变"
+    },
+    {
+      "source": "修昔底德",
+      "target": "亚西比德"
+    },
+    {
+      "source": "修昔底德",
+      "target": "奥罗洛斯"
+    },
+    {
+      "source": "修昔底德",
+      "target": "阿那克萨戈拉"
+    },
+    {
+      "source": "修昔底德",
+      "target": "安提丰"
+    },
+    {
+      "source": "修昔底德",
+      "target": "西西里远征"
+    },
+    {
+      "source": "修昔底德",
+      "target": "色诺芬"
+    },
+    {
+      "source": "修昔底德",
+      "target": "安菲玻里城"
+    },
+    {
+      "source": "修昔底德",
+      "target": "安菲玻里战役"
+    },
+    {
+      "source": "修昔底德",
+      "target": "瘟疫"
+    },
+    {
+      "source": "修昔底德",
+      "target": "柏克"
+    },
+    {
+      "source": "修昔底德",
+      "target": "丘吉尔"
+    },
+    {
+      "source": "修昔底德",
+      "target": "色雷斯"
+    },
+    {
+      "source": "修昔底德",
+      "target": "西西里岛"
+    },
+    {
+      "source": "修昔底德",
+      "target": "不白之冤"
+    },
+    {
+      "source": "修昔底德",
+      "target": "阿伦特"
+    },
+    {
+      "source": "修昔底德",
+      "target": "尼基阿斯"
+    },
+    {
+      "source": "修昔底德",
+      "target": "提奥彭帕斯"
+    },
+    {
+      "source": "修昔底德",
+      "target": "克刺替伯斯"
+    },
+    {
+      "source": "修昔底德",
+      "target": "德谟斯提尼"
+    },
+    {
+      "source": "修昔底德",
+      "target": "塔西陀"
+    },
+    {
+      "source": "修昔底德",
+      "target": "萨拉斯特"
+    },
+    {
+      "source": "修昔底德",
+      "target": "阿里安"
+    },
+    {
+      "source": "修昔底德",
+      "target": "普洛科比阿斯"
+    },
+    {
+      "source": "修昔底德",
+      "target": "马基雅弗利"
+    },
+    {
+      "source": "修昔底德",
+      "target": "雅典民主"
+    },
+    {
+      "source": "修昔底德",
+      "target": "雅典政制危机"
+    },
+    {
+      "source": "修昔底德",
+      "target": "后世"
+    },
+    {
+      "source": "修昔底德",
+      "target": "古希腊"
+    },
+    {
+      "source": "修昔底德",
+      "target": "特洛耶战争"
+    },
+    {
+      "source": "修昔底德",
+      "target": "伯罗奔尼撒战争"
+    },
+    {
+      "source": "修昔底德",
+      "target": "极大动荡"
+    },
+    {
+      "source": "修昔底德",
+      "target": "政治实践者"
+    },
+    {
+      "source": "修昔底德",
+      "target": "战争与和平"
+    },
+    {
+      "source": "修昔底德",
+      "target": "朴素唯物主义历史观"
+    },
+    {
+      "source": "修昔底德",
+      "target": "战争"
+    },
+    {
+      "source": "修昔底德",
+      "target": "马基雅维里"
+    },
+    {
+      "source": "修昔底德",
+      "target": "兰克"
+    },
+    {
+      "source": "修昔底德",
+      "target": "客观主义史学"
+    },
+    {
+      "source": "修昔底德",
+      "target": "麦考莱"
+    },
+    {
+      "source": "修昔底德",
+      "target": "希腊世界"
+    },
+    {
+      "source": "修昔底德",
+      "target": "非希腊人世界"
+    },
+    {
+      "source": "修昔底德",
+      "target": "自我保存"
+    },
+    {
+      "source": "修昔底德",
+      "target": "伊庇丹努事件"
+    },
+    {
+      "source": "修昔底德",
+      "target": "科西拉事件"
+    },
+    {
+      "source": "修昔底德",
+      "target": "僭主政体"
+    },
+    {
+      "source": "修昔底德",
+      "target": "薇依"
+    },
+    {
+      "source": "修昔底德",
+      "target": "尼采"
+    },
+    {
+      "source": "修昔底德",
+      "target": "普鲁塔克"
+    },
+    {
+      "source": "修昔底德",
+      "target": "波桑尼阿斯"
+    },
+    {
+      "source": "修昔底德",
+      "target": "马塞林"
+    },
+    {
+      "source": "修昔底德",
+      "target": "荷马史诗"
+    },
+    {
+      "source": "修昔底德",
+      "target": "提洛岛"
+    },
+    {
+      "source": "修昔底德",
+      "target": "法律"
+    },
+    {
+      "source": "修昔底德",
+      "target": "约定"
+    },
+    {
+      "source": "修昔底德",
+      "target": "希腊诸邦"
+    },
+    {
+      "source": "修昔底德",
+      "target": "自然正义"
+    },
+    {
+      "source": "修昔底德",
+      "target": "麦累"
+    },
+    {
+      "source": "修昔底德",
+      "target": "英雄史观"
+    },
+    {
+      "source": "修昔底德",
+      "target": "人性"
+    },
+    {
+      "source": "修昔底德",
+      "target": "雅典帝国"
+    },
+    {
+      "source": "修昔底德",
+      "target": "天人感应"
+    },
+    {
+      "source": "修昔底德",
+      "target": "尼西阿斯"
+    },
+    {
+      "source": "修昔底德",
+      "target": "神谶"
+    },
+    {
+      "source": "修昔底德",
+      "target": "地震"
+    },
+    {
+      "source": "修昔底德",
+      "target": "雅典远征军"
+    },
+    {
+      "source": "修昔底德",
+      "target": "奴隶主阶级"
+    },
+    {
+      "source": "修昔底德",
+      "target": "科学的方法"
+    },
+    {
+      "source": "修昔底德",
+      "target": "朴素唯物主义的历史观"
+    },
+    {
+      "source": "修昔底德",
+      "target": "雅典使者"
+    },
+    {
+      "source": "修昔底德",
+      "target": "第二次条约"
+    },
+    {
+      "source": "修昔底德",
+      "target": "张广智"
+    },
+    {
+      "source": "修昔底德",
+      "target": "神人合一的状态"
+    },
+    {
+      "source": "修昔底德",
+      "target": "经济资源"
+    },
+    {
+      "source": "修昔底德",
+      "target": "唯物史观"
+    },
+    {
+      "source": "修昔底德",
+      "target": "苏联历史学者狄雅科夫"
+    },
+    {
+      "source": "修昔底德",
+      "target": "苏联历史学者尼科尔斯基"
+    },
+    {
+      "source": "修昔底德",
+      "target": "古代世界史"
+    },
+    {
+      "source": "修昔底德",
+      "target": "希腊"
+    },
+    {
+      "source": "修昔底德",
+      "target": "佛米欧"
+    },
+    {
+      "source": "修昔底德",
+      "target": "地米斯托克利"
+    },
+    {
+      "source": "修昔底德",
+      "target": "福里尼卡斯"
+    },
+    {
+      "source": "修昔底德",
+      "target": "弥罗斯对话"
+    },
+    {
+      "source": "修昔底德",
+      "target": "普拉提亚人"
+    },
+    {
+      "source": "修昔底德",
+      "target": "狐狸"
+    },
+    {
+      "source": "修昔底德",
+      "target": "力量"
+    },
+    {
+      "source": "修昔底德",
+      "target": "普拉提亚"
+    },
+    {
+      "source": "修昔底德",
+      "target": "科西拉"
+    },
+    {
+      "source": "修昔底德",
+      "target": "拉栖代梦人"
+    },
+    {
+      "source": "修昔底德",
+      "target": "超凡魅力权威"
+    },
+    {
+      "source": "超凡魅力权威",
+      "target": "超凡魅力领袖"
+    },
+    {
+      "source": "超凡魅力权威",
+      "target": "理性权威"
+    },
+    {
+      "source": "超凡魅力权威",
+      "target": "传统权威"
+    },
+    {
+      "source": "超凡魅力权威",
+      "target": "信仰"
+    },
+    {
+      "source": "超凡魅力权威",
+      "target": "使命"
+    },
+    {
+      "source": "超凡魅力权威",
+      "target": "战争"
+    },
+    {
+      "source": "超凡魅力权威",
+      "target": "革命"
+    },
+    {
+      "source": "超凡魅力权威",
+      "target": "雅典"
+    },
+    {
+      "source": "僭主之治",
+      "target": "雅典"
+    },
+    {
+      "source": "恐惧",
+      "target": "暴政"
+    },
+    {
+      "source": "恐惧",
+      "target": "专制"
+    },
+    {
+      "source": "密提林叛变",
+      "target": "普拉提亚事件"
+    },
+    {
+      "source": "斯巴达",
+      "target": "阿提卡"
+    },
+    {
+      "source": "斯巴达",
+      "target": "伯罗奔尼撒战争"
+    },
+    {
+      "source": "斯巴达",
+      "target": "阿基达马斯"
+    },
+    {
+      "source": "斯巴达",
+      "target": "普拉提亚"
+    },
+    {
+      "source": "斯巴达",
+      "target": "希洛人起义"
+    },
+    {
+      "source": "斯巴达",
+      "target": "塔索斯"
+    },
+    {
+      "source": "斯巴达",
+      "target": "雅典"
+    },
+    {
+      "source": "斯巴达",
+      "target": "波斯"
+    },
+    {
+      "source": "斯巴达",
+      "target": "希腊"
+    },
+    {
+      "source": "斯巴达",
+      "target": "伯罗奔尼撒联盟"
+    },
+    {
+      "source": "斯巴达",
+      "target": "阿希达穆斯二世"
+    },
+    {
+      "source": "斯巴达",
+      "target": "阿哥斯"
+    },
+    {
+      "source": "斯巴达",
+      "target": "阿基丹姆"
+    },
+    {
+      "source": "斯巴达",
+      "target": "普拉提亚攻克"
+    },
+    {
+      "source": "斯巴达",
+      "target": "安菲波利战役"
+    },
+    {
+      "source": "斯巴达",
+      "target": "战争"
+    },
+    {
+      "source": "斯巴达",
+      "target": "长城"
+    },
+    {
+      "source": "斯巴达",
+      "target": "庇里犹斯"
+    },
+    {
+      "source": "斯巴达",
+      "target": "吕库古"
+    },
+    {
+      "source": "斯巴达",
+      "target": "柏拉图"
+    },
+    {
+      "source": "斯巴达",
+      "target": "拉栖代梦"
+    },
+    {
+      "source": "斯巴达",
+      "target": "伯罗奔尼撒同盟"
+    },
+    {
+      "source": "斯巴达",
+      "target": "拉栖代梦人"
+    },
+    {
+      "source": "斯巴达",
+      "target": "希腊城邦"
+    },
+    {
+      "source": "斯巴达",
+      "target": "权势"
+    },
+    {
+      "source": "斯巴达",
+      "target": "伯罗奔尼撒战争史"
+    },
+    {
+      "source": "斯巴达",
+      "target": "利卡斯"
+    },
+    {
+      "source": "斯巴达",
+      "target": "伯罗奔尼撒半岛"
+    },
+    {
+      "source": "斯巴达",
+      "target": "科林斯"
+    },
+    {
+      "source": "斯巴达",
+      "target": "底比斯"
+    },
+    {
+      "source": "斯巴达",
+      "target": "阿尔戈斯"
+    },
+    {
+      "source": "斯巴达",
+      "target": "波桑尼阿斯"
+    },
+    {
+      "source": "斯巴达",
+      "target": "亚西比德"
+    },
+    {
+      "source": "斯巴达",
+      "target": "弥罗斯"
+    },
+    {
+      "source": "斯巴达",
+      "target": "忒拜"
+    },
+    {
+      "source": "斯巴达",
+      "target": "希洛人"
+    },
+    {
+      "source": "斯巴达",
+      "target": "同盟"
+    },
+    {
+      "source": "盟邦",
+      "target": "雅典"
+    },
+    {
+      "source": "阿尔戈斯",
+      "target": "伯罗奔尼撒战争"
+    },
+    {
+      "source": "阿尔戈斯",
+      "target": "阿伽门农"
+    },
+    {
+      "source": "阿尔戈斯",
+      "target": "特洛伊远征军"
+    },
+    {
+      "source": "阿尔戈斯",
+      "target": "雅典"
+    },
+    {
+      "source": "底比斯",
+      "target": "伯罗奔尼撒战争"
+    },
+    {
+      "source": "底比斯",
+      "target": "普拉提亚"
+    },
+    {
+      "source": "底比斯",
+      "target": "斯巴達"
+    },
+    {
+      "source": "底比斯",
+      "target": "雅典"
+    },
+    {
+      "source": "底比斯",
+      "target": "希臘霸權"
+    },
+    {
+      "source": "伯里克利",
+      "target": "雅典"
+    },
+    {
+      "source": "伯里克利",
+      "target": "阿基达马斯"
+    },
+    {
+      "source": "伯里克利",
+      "target": "客蒙"
+    },
+    {
+      "source": "伯里克利",
+      "target": "麦加里德"
+    },
+    {
+      "source": "伯里克利",
+      "target": "伯罗奔尼撒战争"
+    },
+    {
+      "source": "伯里克利",
+      "target": "基托"
+    },
+    {
+      "source": "伯里克利",
+      "target": "伯罗奔尼撒半岛沿海地区"
+    },
+    {
+      "source": "伯里克利",
+      "target": "色雷斯的卡尔西斯"
+    },
+    {
+      "source": "伯里克利",
+      "target": "波提狄亚"
+    },
+    {
+      "source": "伯里克利",
+      "target": "阵亡将士国葬典礼"
+    },
+    {
+      "source": "伯里克利",
+      "target": "雅典帝国"
+    },
+    {
+      "source": "伯里克利",
+      "target": "克索涅索"
+    },
+    {
+      "source": "伯里克利",
+      "target": "好客海"
+    },
+    {
+      "source": "伯里克利",
+      "target": "斐狄亚斯"
+    },
+    {
+      "source": "伯里克利",
+      "target": "阿斯帕西亚"
+    },
+    {
+      "source": "伯里克利",
+      "target": "阿那克萨戈拉"
+    },
+    {
+      "source": "伯里克利",
+      "target": "克瑞翁"
+    },
+    {
+      "source": "伯里克利",
+      "target": "零售商"
+    },
+    {
+      "source": "伯里克利",
+      "target": "手工业者"
+    },
+    {
+      "source": "伯里克利",
+      "target": "船长"
+    },
+    {
+      "source": "伯里克利",
+      "target": "伯罗奔尼撒同盟"
+    },
+    {
+      "source": "伯里克利",
+      "target": "西西里"
+    },
+    {
+      "source": "伯里克利",
+      "target": "康福德"
+    },
+    {
+      "source": "伯里克利",
+      "target": "地峡"
+    },
+    {
+      "source": "伯里克利",
+      "target": "超凡魅力领袖"
+    },
+    {
+      "source": "伯里克利",
+      "target": "麦加拉法令"
+    },
+    {
+      "source": "伯里克利",
+      "target": "政治操守"
+    },
+    {
+      "source": "米利都",
+      "target": "萨摩斯"
+    },
+    {
+      "source": "米利都",
+      "target": "伯羅奔尼撒人"
+    },
+    {
+      "source": "米利都",
+      "target": "雅典"
+    },
+    {
+      "source": "埃及托勒密王朝",
+      "target": "伯罗奔尼撒战争"
+    },
+    {
+      "source": "波斯帝国",
+      "target": "伯罗奔尼撒战争"
+    },
+    {
+      "source": "地图",
+      "target": "伯罗奔尼撒战争"
+    },
+    {
+      "source": "阿提卡",
+      "target": "雅典"
+    },
+    {
+      "source": "阿提卡",
+      "target": "斯巴达人"
+    },
+    {
+      "source": "阿提卡",
+      "target": "阿基丹姆"
+    },
+    {
+      "source": "阿提卡",
+      "target": "雅典人"
+    },
+    {
+      "source": "阿提卡",
+      "target": "伯羅奔尼撒人"
+    },
+    {
+      "source": "阿提卡",
+      "target": "伯羅奔尼撒戰爭"
+    },
+    {
+      "source": "阿提卡",
+      "target": "斯巴達王阿基斯"
+    },
+    {
+      "source": "阿提卡",
+      "target": "斯巴達人"
+    },
+    {
+      "source": "阿提卡",
+      "target": "阿基达马斯"
+    },
+    {
+      "source": "公元前五世纪的希腊历史",
+      "target": "伯罗奔尼撒战争史"
+    },
+    {
+      "source": "列宁",
+      "target": "实践思想者"
+    },
+    {
+      "source": "列宁",
+      "target": "马克思主义唯物史观"
+    },
+    {
+      "source": "列宁",
+      "target": "卢卡奇"
+    },
+    {
+      "source": "列宁",
+      "target": "马克思恩格斯"
+    },
+    {
+      "source": "弥罗斯",
+      "target": "雅典"
+    },
+    {
+      "source": "赫尔墨斯神像事件",
+      "target": "雅典"
+    },
+    {
+      "source": "赫尔墨斯神像事件",
+      "target": "亚西比德"
+    },
+    {
+      "source": "赫尔墨斯神像事件",
+      "target": "被监禁者"
+    },
+    {
+      "source": "赫尔墨斯神像事件",
+      "target": "被告发者"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "雅典"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "科林斯"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "伯罗奔尼撒战争史"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "历史学"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "古希腊"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "安纳托利亚"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "西西里"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "提洛同盟"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "伯罗奔尼撒同盟"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "伯罗奔尼撒联盟"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "希腊奴隶制城邦"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "希腊"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "斯巴达人"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "雅典人"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "拉栖代梦"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "科西拉"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "麦加拉"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "弥罗斯对话"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "西西里远征"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "雅典瘟疫"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "阿基达马斯"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "拉栖代梦人"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "康德"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "洛克"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "科西拉事件"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "波提狄亚事件"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "庇里犹斯港"
+    },
+    {
+      "source": "伯罗奔尼撒战争",
+      "target": "为生存而斗争"
+    },
+    {
+      "source": "弥罗斯对话",
+      "target": "西西里远征"
+    },
+    {
+      "source": "普拉提亚",
+      "target": "雅典"
+    },
+    {
+      "source": "普拉提亚",
+      "target": "伯罗奔尼撒人"
+    },
+    {
+      "source": "普拉提亚",
+      "target": "密提林"
+    },
+    {
+      "source": "普拉提亚",
+      "target": "忒拜"
+    },
+    {
+      "source": "罗马帝国",
+      "target": "雅典"
+    },
+    {
+      "source": "马其顿帝国",
+      "target": "分裂"
+    },
+    {
+      "source": "雅典帝国",
+      "target": "雅典"
+    },
+    {
+      "source": "雅典帝国",
+      "target": "雅典民主制"
+    },
+    {
+      "source": "雅典帝国",
+      "target": "公元前五世纪末期"
+    },
+    {
+      "source": "古希腊",
+      "target": "法律权利"
+    },
+    {
+      "source": "古希腊",
+      "target": "希罗多德"
+    },
+    {
+      "source": "法庭诉讼",
+      "target": "雅典"
+    },
+    {
+      "source": "外邦人",
+      "target": "雅典"
+    },
+    {
+      "source": "外邦人",
+      "target": "古希腊城邦"
+    },
+    {
+      "source": "外邦人",
+      "target": "雅典公民权"
+    },
+    {
+      "source": "原子",
+      "target": "人的灵魂"
+    },
+    {
+      "source": "原子",
+      "target": "古希腊唯物主义思想"
+    },
+    {
+      "source": "智者派",
+      "target": "普罗太戈拉"
+    },
+    {
+      "source": "智者派",
+      "target": "雅典"
+    },
+    {
+      "source": "普罗太戈拉",
+      "target": "奴隶主民主政治"
+    },
+    {
+      "source": "普罗太戈拉",
+      "target": "雅典"
+    },
+    {
+      "source": "阿基达马斯",
+      "target": "伯罗奔尼撒联军"
+    },
+    {
+      "source": "苏格拉底",
+      "target": "人世的问题"
+    },
+    {
+      "source": "苏格拉底",
+      "target": "理想国"
+    },
+    {
+      "source": "苏格拉底",
+      "target": "强者定义"
+    },
+    {
+      "source": "苏格拉底",
+      "target": "公民大会"
+    },
+    {
+      "source": "苏格拉底",
+      "target": "民主"
+    },
+    {
+      "source": "苏格拉底",
+      "target": "雅典"
+    },
+    {
+      "source": "爱斯基里斯",
+      "target": "神"
+    },
+    {
+      "source": "爱斯基里斯",
+      "target": "雅典"
+    },
+    {
+      "source": "索福克勒斯",
+      "target": "人的伟大"
+    },
+    {
+      "source": "索福克勒斯",
+      "target": "神和命运"
+    },
+    {
+      "source": "索福克勒斯",
+      "target": "雅典"
+    },
+    {
+      "source": "幼里披底斯",
+      "target": "现实问题"
+    },
+    {
+      "source": "幼里披底斯",
+      "target": "现实主义成分"
+    },
+    {
+      "source": "幼里披底斯",
+      "target": "雅典"
+    },
+    {
+      "source": "阿里斯多芬",
+      "target": "社会丑恶现象"
+    },
+    {
+      "source": "阿里斯多芬",
+      "target": "雅典"
+    },
+    {
+      "source": "希罗多德",
+      "target": "历史"
+    },
+    {
+      "source": "希罗多德",
+      "target": "世俗社会"
+    },
+    {
+      "source": "希罗多德",
+      "target": "色诺芬"
+    },
+    {
+      "source": "希罗多德",
+      "target": "希腊城邦"
+    },
+    {
+      "source": "希罗多德",
+      "target": "希波战争"
+    },
+    {
+      "source": "希罗多德",
+      "target": "雅典人"
+    },
+    {
+      "source": "历史",
+      "target": "伯罗奔尼撒战争史"
+    },
+    {
+      "source": "希波战争",
+      "target": "雅典"
+    },
+    {
+      "source": "希波战争",
+      "target": "希腊人"
+    },
+    {
+      "source": "希波战争",
+      "target": "希腊"
+    },
+    {
+      "source": "希波战争",
+      "target": "古典时代"
+    },
+    {
+      "source": "雅典娜",
+      "target": "雅典"
+    },
+    {
+      "source": "斯基洛斯",
+      "target": "雅典"
+    },
+    {
+      "source": "卡利斯图",
+      "target": "雅典"
+    },
+    {
+      "source": "纳克索斯",
+      "target": "雅典"
+    },
+    {
+      "source": "塔索斯",
+      "target": "雅典"
+    },
+    {
+      "source": "优卑亚各邦",
+      "target": "雅典"
+    },
+    {
+      "source": "三十年和约",
+      "target": "雅典"
+    },
+    {
+      "source": "三十年和约",
+      "target": "科西拉"
+    },
+    {
+      "source": "萨摩斯",
+      "target": "雅典"
+    },
+    {
+      "source": "萨摩斯",
+      "target": "科林斯"
+    },
+    {
+      "source": "亞西比得",
+      "target": "雅典"
+    },
+    {
+      "source": "亞西比得",
+      "target": "替薩斐尼"
+    },
+    {
+      "source": "亞西比得",
+      "target": "斯巴達"
+    },
+    {
+      "source": "亞西比得",
+      "target": "波斯人"
+    },
+    {
+      "source": "亞西比得",
+      "target": "伯羅奔尼撒人"
+    },
+    {
+      "source": "亞西比得",
+      "target": "斯巴達人"
+    },
+    {
+      "source": "亞西比得",
+      "target": "雅典人"
+    },
+    {
+      "source": "亞西比得",
+      "target": "麥山那"
+    },
+    {
+      "source": "亞西比得",
+      "target": "麥山那人"
+    },
+    {
+      "source": "替薩斐尼",
+      "target": "雅典"
+    },
+    {
+      "source": "薩莫斯",
+      "target": "雅典"
+    },
+    {
+      "source": "薩莫斯",
+      "target": "卡利克拉提達斯"
+    },
+    {
+      "source": "優卑亞",
+      "target": "雅典"
+    },
+    {
+      "source": "赫勒斯滂海峽",
+      "target": "雅典"
+    },
+    {
+      "source": "赫勒斯滂海峽",
+      "target": "伯羅奔尼撒人"
+    },
+    {
+      "source": "赫勒斯滂海峽",
+      "target": "萊山德"
+    },
+    {
+      "source": "塞斯都斯",
+      "target": "雅典"
+    },
+    {
+      "source": "阿比多斯",
+      "target": "伯羅奔尼撒人"
+    },
+    {
+      "source": "阿比多斯",
+      "target": "亚西比德"
+    },
+    {
+      "source": "塞諾西馬地角",
+      "target": "雅典"
+    },
+    {
+      "source": "基齊庫斯",
+      "target": "雅典"
+    },
+    {
+      "source": "基齊庫斯",
+      "target": "斯巴達海軍"
+    },
+    {
+      "source": "色雷斯沿海地區",
+      "target": "雅典"
+    },
+    {
+      "source": "伯羅奔尼撒人",
+      "target": "伯羅奔尼撒戰爭"
+    },
+    {
+      "source": "伯羅奔尼撒人",
+      "target": "薩拉米"
+    },
+    {
+      "source": "伯羅奔尼撒人",
+      "target": "諾帕克都"
+    },
+    {
+      "source": "伯羅奔尼撒人",
+      "target": "帕特拉斯海戰"
+    },
+    {
+      "source": "伯羅奔尼撒人",
+      "target": "雅典"
+    },
+    {
+      "source": "伯羅奔尼撒人",
+      "target": "密提林"
+    },
+    {
+      "source": "伯羅奔尼撒人",
+      "target": "派羅斯"
+    },
+    {
+      "source": "米加臘",
+      "target": "伯羅奔尼撒聯盟"
+    },
+    {
+      "source": "米加臘",
+      "target": "雅典"
+    },
+    {
+      "source": "伯羅奔尼撒聯盟",
+      "target": "雅典"
+    },
+    {
+      "source": "伯羅奔尼撒聯盟",
+      "target": "第一次伯羅奔尼撒戰爭"
+    },
+    {
+      "source": "伯羅奔尼撒聯盟",
+      "target": "和平條約"
+    },
+    {
+      "source": "伯羅奔尼撒聯盟",
+      "target": "斯巴達"
+    },
+    {
+      "source": "伯羅奔尼撒聯盟",
+      "target": "希波戰爭"
+    },
+    {
+      "source": "第一次伯羅奔尼撒戰爭",
+      "target": "雅典"
+    },
+    {
+      "source": "第一次伯羅奔尼撒戰爭",
+      "target": "斯巴達"
+    },
+    {
+      "source": "和平條約",
+      "target": "雅典"
+    },
+    {
+      "source": "伯羅奔尼撒半島",
+      "target": "斯巴達"
+    },
+    {
+      "source": "濱海城市",
+      "target": "雅典"
+    },
+    {
+      "source": "尼基阿斯",
+      "target": "亚西比德"
+    },
+    {
+      "source": "尼基阿斯",
+      "target": "西西里远征"
+    },
+    {
+      "source": "尼基阿斯",
+      "target": "叙拉古城"
+    },
+    {
+      "source": "尼基阿斯",
+      "target": "雅典"
+    },
+    {
+      "source": "尼基阿斯",
+      "target": "福里尼卡斯"
+    },
+    {
+      "source": "尼基阿斯",
+      "target": "政治操守"
+    },
+    {
+      "source": "赫尔密石像事件",
+      "target": "雅典"
+    },
+    {
+      "source": "僭主政治",
+      "target": "雅典"
+    },
+    {
+      "source": "伯罗奔尼撒战争史",
+      "target": "雅典"
+    },
+    {
+      "source": "伯罗奔尼撒战争史",
+      "target": "西西里远征"
+    },
+    {
+      "source": "伯罗奔尼撒战争史",
+      "target": "历史唯物主义"
+    },
+    {
+      "source": "伯罗奔尼撒战争史",
+      "target": "马克思"
+    },
+    {
+      "source": "伯罗奔尼撒战争史",
+      "target": "恩格斯"
+    },
+    {
+      "source": "伯罗奔尼撒战争史",
+      "target": "文艺复兴运动"
+    },
+    {
+      "source": "伯罗奔尼撒战争史",
+      "target": "无产阶级"
+    },
+    {
+      "source": "伯罗奔尼撒战争史",
+      "target": "新中国"
+    },
+    {
+      "source": "伯罗奔尼撒战争史",
+      "target": "雅典斯巴达战争史"
+    },
+    {
+      "source": "伯罗奔尼撒战争史",
+      "target": "尼西阿斯和约"
+    },
+    {
+      "source": "伯罗奔尼撒战争史",
+      "target": "远征西西里"
+    },
+    {
+      "source": "伯罗奔尼撒战争史",
+      "target": "狄西里亚战争"
+    },
+    {
+      "source": "伯罗奔尼撒战争史",
+      "target": "爱奥尼亚战争"
+    },
+    {
+      "source": "伯罗奔尼撒战争史",
+      "target": "公元前404年"
+    },
+    {
+      "source": "伯罗奔尼撒战争史",
+      "target": "公元前411年冬季"
+    },
+    {
+      "source": "伯罗奔尼撒战争史",
+      "target": "演说词"
+    },
+    {
+      "source": "伯罗奔尼撒战争史",
+      "target": "超凡魅力领袖"
+    },
+    {
+      "source": "寡头政治",
+      "target": "雅典"
+    },
+    {
+      "source": "迦太基",
+      "target": "亚西比德"
+    },
+    {
+      "source": "迦太基",
+      "target": "雅典"
+    },
+    {
+      "source": "奥罗洛斯",
+      "target": "色雷斯沿海地区"
+    },
+    {
+      "source": "阿那克萨戈拉",
+      "target": "雅典"
+    },
+    {
+      "source": "安提丰",
+      "target": "雅典"
+    },
+    {
+      "source": "优卑亚",
+      "target": "雅典"
+    },
+    {
+      "source": "拜占庭",
+      "target": "雅典"
+    },
+    {
+      "source": "那克孽斯",
+      "target": "雅典"
+    },
+    {
+      "source": "雅典",
+      "target": "西西里远征"
+    },
+    {
+      "source": "雅典",
+      "target": "提洛同盟"
+    },
+    {
+      "source": "雅典",
+      "target": "波斯"
+    },
+    {
+      "source": "雅典",
+      "target": "萨勃斯"
+    },
+    {
+      "source": "雅典",
+      "target": "莱山德"
+    },
+    {
+      "source": "雅典",
+      "target": "诺提乌姆"
+    },
+    {
+      "source": "雅典",
+      "target": "埃吉纳"
+    },
+    {
+      "source": "雅典",
+      "target": "科西拉"
+    },
+    {
+      "source": "雅典",
+      "target": "正义与利益之争"
+    },
+    {
+      "source": "雅典",
+      "target": "埃斯库罗斯"
+    },
+    {
+      "source": "雅典",
+      "target": "利益分裂"
+    },
+    {
+      "source": "雅典",
+      "target": "西西里"
+    },
+    {
+      "source": "雅典",
+      "target": "尼西阿斯"
+    },
+    {
+      "source": "雅典",
+      "target": "亚西比德"
+    },
+    {
+      "source": "雅典",
+      "target": "科林斯"
+    },
+    {
+      "source": "雅典",
+      "target": "客蒙"
+    },
+    {
+      "source": "雅典",
+      "target": "克利俄丰"
+    },
+    {
+      "source": "雅典",
+      "target": "希腊城邦"
+    },
+    {
+      "source": "雅典",
+      "target": "柏拉图"
+    },
+    {
+      "source": "雅典",
+      "target": "亚里士多德"
+    },
+    {
+      "source": "雅典",
+      "target": "商业阶层"
+    },
+    {
+      "source": "雅典",
+      "target": "农业阶层"
+    },
+    {
+      "source": "雅典",
+      "target": "战争"
+    },
+    {
+      "source": "雅典",
+      "target": "梭伦"
+    },
+    {
+      "source": "雅典",
+      "target": "古典时代"
+    },
+    {
+      "source": "雅典",
+      "target": "希腊民主时代"
+    },
+    {
+      "source": "雅典",
+      "target": "西西里战役"
+    },
+    {
+      "source": "雅典",
+      "target": "意大利人及西西里的希腊人"
+    },
+    {
+      "source": "雅典",
+      "target": "雅典民主制"
+    },
+    {
+      "source": "雅典",
+      "target": "阿卡奈人"
+    },
+    {
+      "source": "雅典",
+      "target": "科尔居拉"
+    },
+    {
+      "source": "雅典",
+      "target": "伯罗奔尼撒半岛"
+    },
+    {
+      "source": "雅典",
+      "target": "罗克里斯"
+    },
+    {
+      "source": "雅典",
+      "target": "厄吉那人"
+    },
+    {
+      "source": "雅典",
+      "target": "色雷斯"
+    },
+    {
+      "source": "雅典",
+      "target": "马其顿"
+    },
+    {
+      "source": "雅典",
+      "target": "瘟疫"
+    },
+    {
+      "source": "雅典",
+      "target": "克基拉"
+    },
+    {
+      "source": "雅典",
+      "target": "伯罗奔尼撒同盟"
+    },
+    {
+      "source": "雅典",
+      "target": "希洛人"
+    },
+    {
+      "source": "雅典",
+      "target": "公民大会"
+    },
+    {
+      "source": "雅典",
+      "target": "社会经济发展"
+    },
+    {
+      "source": "雅典",
+      "target": "斯巴達"
+    },
+    {
+      "source": "雅典",
+      "target": "伯羅奔尼撒戰爭"
+    },
+    {
+      "source": "雅典",
+      "target": "色诺芬"
+    },
+    {
+      "source": "雅典",
+      "target": "帝国悖论"
+    },
+    {
+      "source": "雅典",
+      "target": "集权"
+    },
+    {
+      "source": "雅典",
+      "target": "暴君"
+    },
+    {
+      "source": "雅典",
+      "target": "亞西比德"
+    },
+    {
+      "source": "雅典",
+      "target": "萊山德"
+    },
+    {
+      "source": "雅典",
+      "target": "阿爾吉努薩伊群島"
+    },
+    {
+      "source": "雅典",
+      "target": "雅典將軍"
+    },
+    {
+      "source": "雅典",
+      "target": "黑海"
+    },
+    {
+      "source": "雅典",
+      "target": "比雷埃夫斯港"
+    },
+    {
+      "source": "雅典",
+      "target": "波斯帝國"
+    },
+    {
+      "source": "雅典",
+      "target": "希腊人"
+    },
+    {
+      "source": "雅典",
+      "target": "伊奥尼亚地区"
+    },
+    {
+      "source": "雅典",
+      "target": "羊河口之戰"
+    },
+    {
+      "source": "雅典",
+      "target": "派罗斯战役"
+    },
+    {
+      "source": "雅典",
+      "target": "第力安战役"
+    },
+    {
+      "source": "雅典",
+      "target": "雅典民主制政变"
+    },
+    {
+      "source": "雅典",
+      "target": "拉栖代梦"
+    },
+    {
+      "source": "雅典",
+      "target": "希腊盟邦"
+    },
+    {
+      "source": "雅典",
+      "target": "色諾芬"
+    },
+    {
+      "source": "雅典",
+      "target": "城邦"
+    },
+    {
+      "source": "雅典",
+      "target": "希腊同盟"
+    },
+    {
+      "source": "雅典",
+      "target": "雅典公民权"
+    },
+    {
+      "source": "雅典",
+      "target": "希臘霸權"
+    },
+    {
+      "source": "雅典",
+      "target": "克法罗斯"
+    },
+    {
+      "source": "雅典",
+      "target": "波提狄亚"
+    },
+    {
+      "source": "雅典",
+      "target": "荣誉"
+    },
+    {
+      "source": "雅典",
+      "target": "希臘世界"
+    },
+    {
+      "source": "雅典",
+      "target": "列斯堡"
+    },
+    {
+      "source": "雅典",
+      "target": "開俄斯"
+    },
+    {
+      "source": "雅典",
+      "target": "厄立特利亞"
+    },
+    {
+      "source": "雅典",
+      "target": "羅得"
+    },
+    {
+      "source": "雅典",
+      "target": "寡頭政變"
+    },
+    {
+      "source": "雅典",
+      "target": "薩摩斯"
+    },
+    {
+      "source": "雅典",
+      "target": "普拉提亞"
+    },
+    {
+      "source": "雅典",
+      "target": "羊河口海戰"
+    },
+    {
+      "source": "雅典",
+      "target": "萨拉米斯海战"
+    },
+    {
+      "source": "雅典",
+      "target": "拉栖代梦人"
+    },
+    {
+      "source": "雅典",
+      "target": "麦加拉"
+    },
+    {
+      "source": "雅典",
+      "target": "希腊世界"
+    },
+    {
+      "source": "雅典",
+      "target": "伯罗奔尼撒盟邦"
+    },
+    {
+      "source": "雅典",
+      "target": "僭主政体"
+    },
+    {
+      "source": "雅典",
+      "target": "致命分裂"
+    },
+    {
+      "source": "雅典",
+      "target": "民主制变革"
+    },
+    {
+      "source": "雅典",
+      "target": "政治实践者的局限"
+    },
+    {
+      "source": "雅典",
+      "target": "波提狄亚事件"
+    },
+    {
+      "source": "雅典",
+      "target": "敘拉古"
+    },
+    {
+      "source": "雅典",
+      "target": "伯罗奔尼撒同盟大会"
+    },
+    {
+      "source": "雅典",
+      "target": "希腊诸邦"
+    },
+    {
+      "source": "雅典",
+      "target": "羊河口"
+    },
+    {
+      "source": "雅典",
+      "target": "权势"
+    },
+    {
+      "source": "雅典",
+      "target": "普拉提亚事件"
+    },
+    {
+      "source": "雅典",
+      "target": "庇里犹斯港"
+    },
+    {
+      "source": "雅典",
+      "target": "埃及"
+    },
+    {
+      "source": "雅典",
+      "target": "波奥提亚人"
+    },
+    {
+      "source": "雅典",
+      "target": "忒拜"
+    },
+    {
+      "source": "雅典",
+      "target": "王者执政官"
+    },
+    {
+      "source": "雅典",
+      "target": "督战官"
+    },
+    {
+      "source": "雅典",
+      "target": "执政官"
+    },
+    {
+      "source": "雅典",
+      "target": "司法执政官"
+    },
+    {
+      "source": "雅典",
+      "target": "战神山议事会"
+    },
+    {
+      "source": "雅典",
+      "target": "为生存而斗争"
+    },
+    {
+      "source": "雅典",
+      "target": "德拉古法典"
+    },
+    {
+      "source": "雅典",
+      "target": "裴狄亚安人"
+    },
+    {
+      "source": "雅典",
+      "target": "得阿克里安人"
+    },
+    {
+      "source": "雅典",
+      "target": "梭伦改革"
+    },
+    {
+      "source": "雅典",
+      "target": "巴拉利安人"
+    },
+    {
+      "source": "雅典",
+      "target": "贵族"
+    },
+    {
+      "source": "雅典",
+      "target": "新富裕阶层"
+    },
+    {
+      "source": "雅典",
+      "target": "平民"
+    },
+    {
+      "source": "雅典",
+      "target": "政治失德"
+    },
+    {
+      "source": "雅典",
+      "target": "超凡魅力领袖"
+    },
+    {
+      "source": "雅典",
+      "target": "派罗斯"
+    },
+    {
+      "source": "雅典",
+      "target": "四百人议会"
+    },
+    {
+      "source": "雅典",
+      "target": "公民陪审法庭"
+    },
+    {
+      "source": "雅典",
+      "target": "西西里戰"
+    },
+    {
+      "source": "雅典",
+      "target": "克里斯提尼"
+    },
+    {
+      "source": "雅典",
+      "target": "海岸派"
+    },
+    {
+      "source": "雅典",
+      "target": "庇西斯特拉图"
+    },
+    {
+      "source": "雅典",
+      "target": "平原派"
+    },
+    {
+      "source": "雅典",
+      "target": "山地派"
+    },
+    {
+      "source": "雅典",
+      "target": "四百人会议"
+    },
+    {
+      "source": "雅典",
+      "target": "五百人议事会"
+    },
+    {
+      "source": "雅典",
+      "target": "公民等级"
+    },
+    {
+      "source": "雅典",
+      "target": "四百人会议成员"
+    },
+    {
+      "source": "雅典",
+      "target": "次要公职"
+    },
+    {
+      "source": "雅典",
+      "target": "重要公职"
+    },
+    {
+      "source": "雅典",
+      "target": "地中海"
+    },
+    {
+      "source": "雅典",
+      "target": "意大利"
+    },
+    {
+      "source": "雅典",
+      "target": "庇里犹斯"
+    },
+    {
+      "source": "雅典",
+      "target": "阿拉伯"
+    },
+    {
+      "source": "雅典",
+      "target": "陪审法庭"
+    },
+    {
+      "source": "雅典",
+      "target": "圆身船"
+    },
+    {
+      "source": "雅典",
+      "target": "长身船"
+    },
+    {
+      "source": "雅典",
+      "target": "葡萄酒"
+    },
+    {
+      "source": "雅典",
+      "target": "橄榄油"
+    },
+    {
+      "source": "雅典",
+      "target": "金属制品"
+    },
+    {
+      "source": "雅典",
+      "target": "大理石"
+    },
+    {
+      "source": "雅典",
+      "target": "铜"
+    },
+    {
+      "source": "雅典",
+      "target": "铅"
+    },
+    {
+      "source": "雅典",
+      "target": "银"
+    },
+    {
+      "source": "雅典",
+      "target": "十将军委员会"
+    },
+    {
+      "source": "雅典",
+      "target": "雅典民主"
+    },
+    {
+      "source": "雅典",
+      "target": "僭主制"
+    },
+    {
+      "source": "雅典",
+      "target": "佛米欧"
+    },
+    {
+      "source": "雅典",
+      "target": "奴隶"
+    },
+    {
+      "source": "雅典",
+      "target": "羞耻"
+    },
+    {
+      "source": "雅典",
+      "target": "政治德性"
+    },
+    {
+      "source": "雅典",
+      "target": "民众"
+    },
+    {
+      "source": "雅典",
+      "target": "启蒙"
+    },
+    {
+      "source": "雅典",
+      "target": "地米斯托克利"
+    },
+    {
+      "source": "雅典",
+      "target": "福里尼卡斯"
+    },
+    {
+      "source": "雅典",
+      "target": "米利都战役"
+    },
+    {
+      "source": "雅典",
+      "target": "民主制"
+    },
+    {
+      "source": "雅典",
+      "target": "贵族制"
+    },
+    {
+      "source": "雅典",
+      "target": "选举"
+    },
+    {
+      "source": "雅典",
+      "target": "财政腐败"
+    },
+    {
+      "source": "雅典",
+      "target": "能动易变"
+    },
+    {
+      "source": "雅典",
+      "target": "哈林顿"
+    },
+    {
+      "source": "雅典",
+      "target": "敘拉古戰役"
+    },
+    {
+      "source": "雅典",
+      "target": "德莫斯提尼"
+    },
+    {
+      "source": "雅典",
+      "target": "真诚"
+    },
+    {
+      "source": "雅典",
+      "target": "伪装矫饰"
+    },
+    {
+      "source": "雅典",
+      "target": "敘拉古人及其同盟者"
+    },
+    {
+      "source": "雅典",
+      "target": "力量"
+    },
+    {
+      "source": "雅典",
+      "target": "密提林"
+    },
+    {
+      "source": "雅典",
+      "target": "一与多的斗争"
+    },
+    {
+      "source": "雅典",
+      "target": "道德观念"
+    },
+    {
+      "source": "雅典",
+      "target": "叙拉古"
+    },
+    {
+      "source": "雅典",
+      "target": "经济繁荣"
+    },
+    {
+      "source": "雅典",
+      "target": "叙拉古人"
+    },
+    {
+      "source": "雅典",
+      "target": "普鲁塔克"
+    },
+    {
+      "source": "雅典",
+      "target": "普雷斯托阿纳克斯"
+    },
+    {
+      "source": "雅典",
+      "target": "密提林人"
+    },
+    {
+      "source": "雅典",
+      "target": "正义"
+    },
+    {
+      "source": "雅典",
+      "target": "德凱利亞"
+    },
+    {
+      "source": "雅典",
+      "target": "观剧津贴"
+    },
+    {
+      "source": "雅典",
+      "target": "德谟克利特"
+    },
+    {
+      "source": "雅典",
+      "target": "斐迪亚斯"
+    },
+    {
+      "source": "雅典",
+      "target": "希波克拉特"
+    },
+    {
+      "source": "雅典",
+      "target": "攸利密頓"
+    },
+    {
+      "source": "雅典",
+      "target": "敘拉古人"
+    },
+    {
+      "source": "雅典",
+      "target": "贝壳放逐法"
+    },
+    {
+      "source": "雅典",
+      "target": "同盟"
+    },
+    {
+      "source": "雅典",
+      "target": "赫摩克拉底"
+    },
+    {
+      "source": "库奇克斯",
+      "target": "亚西比德"
+    },
+    {
+      "source": "希腊",
+      "target": "波斯"
+    },
+    {
+      "source": "希腊",
+      "target": "城邦"
+    },
+    {
+      "source": "希腊",
+      "target": "希腊同盟"
+    },
+    {
+      "source": "希腊",
+      "target": "拉栖代梦"
+    },
+    {
+      "source": "希腊",
+      "target": "爱琴海地区"
+    },
+    {
+      "source": "希腊",
+      "target": "贤"
+    },
+    {
+      "source": "色诺芬",
+      "target": "希腊史"
+    },
+    {
+      "source": "安菲玻里城",
+      "target": "攸克利"
+    },
+    {
+      "source": "瘟疫",
+      "target": "雅典人"
+    },
+    {
+      "source": "埃吉纳",
+      "target": "拉栖代梦"
+    },
+    {
+      "source": "科林斯",
+      "target": "科西拉"
+    },
+    {
+      "source": "科林斯",
+      "target": "伊庇丹努"
+    },
+    {
+      "source": "科林斯",
+      "target": "提洛同盟"
+    },
+    {
+      "source": "科林斯",
+      "target": "萨摩斯叛离雅典"
+    },
+    {
+      "source": "科林斯",
+      "target": "迈锡尼"
+    },
+    {
+      "source": "科林斯",
+      "target": "航海活动"
+    },
+    {
+      "source": "科林斯",
+      "target": "伯罗奔尼撒同盟"
+    },
+    {
+      "source": "科林斯",
+      "target": "战争"
+    },
+    {
+      "source": "科林斯",
+      "target": "第一次伯罗奔尼撒同盟大会"
+    },
+    {
+      "source": "科林斯",
+      "target": "第二次伯罗奔尼撒同盟大会"
+    },
+    {
+      "source": "科林斯",
+      "target": "克基拉"
+    },
+    {
+      "source": "科林斯",
+      "target": "埃皮達姆斯"
+    },
+    {
+      "source": "科林斯",
+      "target": "斯巴達"
+    },
+    {
+      "source": "科林斯",
+      "target": "貧民起義"
+    },
+    {
+      "source": "科林斯",
+      "target": "伊庇丹努事件"
+    },
+    {
+      "source": "科林斯",
+      "target": "波提狄亚事件"
+    },
+    {
+      "source": "科林斯",
+      "target": "雅典人"
+    },
+    {
+      "source": "科林斯",
+      "target": "逻各斯"
+    },
+    {
+      "source": "科林斯",
+      "target": "利益"
+    },
+    {
+      "source": "柏克",
+      "target": "政治政策"
+    },
+    {
+      "source": "提洛同盟",
+      "target": "科西拉"
+    },
+    {
+      "source": "提洛同盟",
+      "target": "希波戰爭"
+    },
+    {
+      "source": "亚西比德",
+      "target": "西西里"
+    },
+    {
+      "source": "亚西比德",
+      "target": "福里尼卡斯"
+    },
+    {
+      "source": "亚西比德",
+      "target": "尼基阿斯和约"
+    },
+    {
+      "source": "亚西比德",
+      "target": "普鲁塔克"
+    },
+    {
+      "source": "亚西比德",
+      "target": "阿尔哥斯"
+    },
+    {
+      "source": "亚西比德",
+      "target": "雅典内政"
+    },
+    {
+      "source": "亚西比德",
+      "target": "雅典人"
+    },
+    {
+      "source": "亚西比德",
+      "target": "阿喀琉斯"
+    },
+    {
+      "source": "亚西比德",
+      "target": "奥德修"
+    },
+    {
+      "source": "亚西比德",
+      "target": "民众"
+    },
+    {
+      "source": "伯羅奔尼撒戰爭",
+      "target": "斯巴達"
+    },
+    {
+      "source": "伯羅奔尼撒戰爭",
+      "target": "希臘"
+    },
+    {
+      "source": "伯羅奔尼撒戰爭",
+      "target": "雅典人"
+    },
+    {
+      "source": "伯羅奔尼撒戰爭",
+      "target": "十年戰爭"
+    },
+    {
+      "source": "伯羅奔尼撒戰爭",
+      "target": "西西里戰"
+    },
+    {
+      "source": "伯羅奔尼撒戰爭",
+      "target": "希臘城邦"
+    },
+    {
+      "source": "伯羅奔尼撒戰爭",
+      "target": "伯羅奔尼撒同盟"
+    },
+    {
+      "source": "伯羅奔尼撒戰爭",
+      "target": "黃金時代"
+    },
+    {
+      "source": "伯羅奔尼撒戰爭",
+      "target": "馬其頓國王腓力二世"
+    },
+    {
+      "source": "伯羅奔尼撒戰爭",
+      "target": "希臘文明"
+    },
+    {
+      "source": "伯羅奔尼撒戰爭",
+      "target": "敘拉古"
+    },
+    {
+      "source": "伯羅奔尼撒戰爭",
+      "target": "密提林"
+    },
+    {
+      "source": "伯羅奔尼撒戰爭",
+      "target": "普拉提亞人"
+    },
+    {
+      "source": "伯羅奔尼撒戰爭",
+      "target": "科爾居拉人"
+    },
+    {
+      "source": "伯羅奔尼撒戰爭",
+      "target": "西西里"
+    },
+    {
+      "source": "伯羅奔尼撒戰爭",
+      "target": "地震"
+    },
+    {
+      "source": "伯羅奔尼撒戰爭",
+      "target": "尼西阿斯和約"
+    },
+    {
+      "source": "西西里远征",
+      "target": "拉栖代梦人"
+    },
+    {
+      "source": "西西里远征",
+      "target": "福里尼卡斯"
+    },
+    {
+      "source": "西西里远征",
+      "target": "赫摩克拉底"
+    },
+    {
+      "source": "伊奥尼亚海域",
+      "target": "科西拉"
+    },
+    {
+      "source": "敘拉古人",
+      "target": "羊河口海戰"
+    },
+    {
+      "source": "敘拉古人",
+      "target": "雙重城牆"
+    },
+    {
+      "source": "敘拉古人",
+      "target": "雅典人"
+    },
+    {
+      "source": "敘拉古人",
+      "target": "科林斯人"
+    },
+    {
+      "source": "敘拉古人",
+      "target": "斯巴達人"
+    },
+    {
+      "source": "敘拉古人",
+      "target": "吉利普斯"
+    },
+    {
+      "source": "敘拉古人",
+      "target": "敘拉古"
+    },
+    {
+      "source": "敘拉古人",
+      "target": "阿哥斯人"
+    },
+    {
+      "source": "敘拉古人",
+      "target": "卡塔那"
+    },
+    {
+      "source": "敘拉古人",
+      "target": "海戰"
+    },
+    {
+      "source": "雅典人",
+      "target": "羊河口海戰"
+    },
+    {
+      "source": "雅典人",
+      "target": "斯巴達人"
+    },
+    {
+      "source": "雅典人",
+      "target": "敘拉古"
+    },
+    {
+      "source": "雅典人",
+      "target": "比雷埃夫斯港口"
+    },
+    {
+      "source": "雅典人",
+      "target": "密提林"
+    },
+    {
+      "source": "雅典人",
+      "target": "尼西阿斯"
+    },
+    {
+      "source": "雅典人",
+      "target": "普利姆密里昂"
+    },
+    {
+      "source": "雅典人",
+      "target": "敘拉古城"
+    },
+    {
+      "source": "雅典人",
+      "target": "奧林匹昂"
+    },
+    {
+      "source": "雅典人",
+      "target": "麥山那"
+    },
+    {
+      "source": "雅典人",
+      "target": "那克索斯"
+    },
+    {
+      "source": "雅典人",
+      "target": "西塞爾人"
+    },
+    {
+      "source": "雅典人",
+      "target": "迦太基人"
+    },
+    {
+      "source": "雅典人",
+      "target": "埃特魯斯坎人"
+    },
+    {
+      "source": "雅典人",
+      "target": "厄庇波利"
+    },
+    {
+      "source": "雅典人",
+      "target": "西西里"
+    },
+    {
+      "source": "雅典人",
+      "target": "林地尼人"
+    },
+    {
+      "source": "雅典人",
+      "target": "派羅斯"
+    },
+    {
+      "source": "雅典人",
+      "target": "美塞尼亞人"
+    },
+    {
+      "source": "雅典人",
+      "target": "普拉提亚人"
+    },
+    {
+      "source": "雅典人",
+      "target": "萨利修斯"
+    },
+    {
+      "source": "斯巴達人",
+      "target": "福密俄"
+    },
+    {
+      "source": "斯巴達人",
+      "target": "希洛人"
+    },
+    {
+      "source": "斯巴達人",
+      "target": "安菲波里之戰"
+    },
+    {
+      "source": "斯巴達人",
+      "target": "吉利普斯"
+    },
+    {
+      "source": "斯巴達人",
+      "target": "雅典同盟"
+    },
+    {
+      "source": "斯巴達人",
+      "target": "敘拉古"
+    },
+    {
+      "source": "斯巴達人",
+      "target": "普拉提亞人"
+    },
+    {
+      "source": "斯巴達人",
+      "target": "底比斯人"
+    },
+    {
+      "source": "斯巴達人",
+      "target": "地震"
+    },
+    {
+      "source": "斯巴達人",
+      "target": "派羅斯"
+    },
+    {
+      "source": "羊河口海戰",
+      "target": "斯巴達"
+    },
+    {
+      "source": "希洛人",
+      "target": "达人"
+    },
+    {
+      "source": "福密俄",
+      "target": "阿卡納尼亞"
+    },
+    {
+      "source": "福密俄",
+      "target": "帕特拉斯海戰"
+    },
+    {
+      "source": "派羅斯",
+      "target": "德莫斯特"
+    },
+    {
+      "source": "派羅斯",
+      "target": "德莫斯提尼"
+    },
+    {
+      "source": "波斯",
+      "target": "小亞細亞"
+    },
+    {
+      "source": "波斯",
+      "target": "斯巴達"
+    },
+    {
+      "source": "波斯",
+      "target": "希腊人"
+    },
+    {
+      "source": "伯罗奔尼撒半岛",
+      "target": "科西拉"
+    },
+    {
+      "source": "斯巴达同盟",
+      "target": "科西拉"
+    },
+    {
+      "source": "意大利",
+      "target": "科西拉"
+    },
+    {
+      "source": "普洛科比阿斯",
+      "target": "拜占廷"
+    },
+    {
+      "source": "卢克莱修",
+      "target": "物性论"
+    },
+    {
+      "source": "西塞罗",
+      "target": "演说词"
+    },
+    {
+      "source": "李维",
+      "target": "历史著作"
+    },
+    {
+      "source": "古典史学",
+      "target": "文艺复兴运动"
+    },
+    {
+      "source": "古典史学",
+      "target": "中世纪基督教神学史观"
+    },
+    {
+      "source": "汉密尔顿",
+      "target": "希腊的回声"
+    },
+    {
+      "source": "亚里士多德",
+      "target": "僭主政体"
+    },
+    {
+      "source": "亚里士多德",
+      "target": "幸福生活"
+    },
+    {
+      "source": "利益",
+      "target": "战争"
+    },
+    {
+      "source": "利益",
+      "target": "法律"
+    },
+    {
+      "source": "西西里",
+      "target": "科西拉"
+    },
+    {
+      "source": "西西里",
+      "target": "雅典艦隊"
+    },
+    {
+      "source": "西西里",
+      "target": "阿格立真坦"
+    },
+    {
+      "source": "西西里",
+      "target": "敘拉古"
+    },
+    {
+      "source": "正义",
+      "target": "战争"
+    },
+    {
+      "source": "正义",
+      "target": "宙斯"
+    },
+    {
+      "source": "战争",
+      "target": "科西拉"
+    },
+    {
+      "source": "战争",
+      "target": "柏拉图"
+    },
+    {
+      "source": "战争",
+      "target": "拉栖代梦"
+    },
+    {
+      "source": "战争",
+      "target": "理想国"
+    },
+    {
+      "source": "战争",
+      "target": "自我保存"
+    },
+    {
+      "source": "战争",
+      "target": "赫拉克利特"
+    },
+    {
+      "source": "战争",
+      "target": "卢梭"
+    },
+    {
+      "source": "战争",
+      "target": "康德"
+    },
+    {
+      "source": "战争",
+      "target": "克劳塞维茨"
+    },
+    {
+      "source": "战争",
+      "target": "伊庇丹努事件"
+    },
+    {
+      "source": "战争",
+      "target": "波提狄亚事件"
+    },
+    {
+      "source": "战争",
+      "target": "密提林"
+    },
+    {
+      "source": "战争",
+      "target": "同盟"
+    },
+    {
+      "source": "德",
+      "target": "手艺人"
+    },
+    {
+      "source": "德",
+      "target": "民主制城邦"
+    },
+    {
+      "source": "德",
+      "target": "农民"
+    },
+    {
+      "source": "德",
+      "target": "福里尼卡斯"
+    },
+    {
+      "source": "手艺人",
+      "target": "柏拉图"
+    },
+    {
+      "source": "梭伦",
+      "target": "七贤"
+    },
+    {
+      "source": "梭伦",
+      "target": "雅典民主制"
+    },
+    {
+      "source": "梭伦",
+      "target": "梭伦改革"
+    },
+    {
+      "source": "梭伦",
+      "target": "解负令"
+    },
+    {
+      "source": "梭伦",
+      "target": "五百斗者"
+    },
+    {
+      "source": "梭伦",
+      "target": "骑士"
+    },
+    {
+      "source": "梭伦",
+      "target": "双牛者"
+    },
+    {
+      "source": "梭伦",
+      "target": "日佣"
+    },
+    {
+      "source": "梭伦",
+      "target": "九执政官"
+    },
+    {
+      "source": "梭伦",
+      "target": "司库官"
+    },
+    {
+      "source": "梭伦",
+      "target": "公卖官"
+    },
+    {
+      "source": "梭伦",
+      "target": "警吏"
+    },
+    {
+      "source": "梭伦",
+      "target": "国库监"
+    },
+    {
+      "source": "梭伦",
+      "target": "贵族院"
+    },
+    {
+      "source": "休谟",
+      "target": "休谟政治论文选"
+    },
+    {
+      "source": "雅典民主",
+      "target": "雅典政制危机"
+    },
+    {
+      "source": "雅典民主",
+      "target": "现代民主"
+    },
+    {
+      "source": "雅典民主",
+      "target": "代议制"
+    },
+    {
+      "source": "雅典民主",
+      "target": "伯里克利葬礼演说"
+    },
+    {
+      "source": "施特劳斯",
+      "target": "自由"
+    },
+    {
+      "source": "无政府状态",
+      "target": "民主制"
+    },
+    {
+      "source": "克法洛斯父子",
+      "target": "正义观念"
+    },
+    {
+      "source": "叙拉古人及其同盟者",
+      "target": "西西里战役"
+    },
+    {
+      "source": "叙拉古人及其同盟者",
+      "target": "尼西亚斯"
+    },
+    {
+      "source": "叙拉古人及其同盟者",
+      "target": "德莫斯提尼"
+    },
+    {
+      "source": "叙拉古人及其同盟者",
+      "target": "吉利普斯"
+    },
+    {
+      "source": "叙拉古人及其同盟者",
+      "target": "被俘的雅典人"
+    },
+    {
+      "source": "德莫斯提尼",
+      "target": "尼西阿斯"
+    },
+    {
+      "source": "德莫斯提尼",
+      "target": "敘拉古"
+    },
+    {
+      "source": "吉利普斯",
+      "target": "敘拉古"
+    },
+    {
+      "source": "吉利普斯",
+      "target": "敘拉古人及其同盟者"
+    },
+    {
+      "source": "吉利普斯",
+      "target": "叙拉古人"
+    },
+    {
+      "source": "斯巴达人",
+      "target": "阿基斯"
+    },
+    {
+      "source": "斯巴达人",
+      "target": "厄吉那人"
+    },
+    {
+      "source": "斯巴达人",
+      "target": "德尔斐神庙"
+    },
+    {
+      "source": "斯巴达人",
+      "target": "地米斯托克利"
+    },
+    {
+      "source": "斯巴达人",
+      "target": "普拉提亚人"
+    },
+    {
+      "source": "阿基斯",
+      "target": "拉栖代梦"
+    },
+    {
+      "source": "雅典民主制",
+      "target": "庇西斯特拉图"
+    },
+    {
+      "source": "基托",
+      "target": "民主政治"
+    },
+    {
+      "source": "罗克里斯",
+      "target": "公元前426年地震"
+    },
+    {
+      "source": "第二次伯罗奔尼撒同盟大会",
+      "target": "拉栖代梦人"
+    },
+    {
+      "source": "第二次伯罗奔尼撒同盟大会",
+      "target": "科林斯人"
+    },
+    {
+      "source": "基拉",
+      "target": "克基拉"
+    },
+    {
+      "source": "克基拉",
+      "target": "埃皮達姆斯"
+    },
+    {
+      "source": "尼西阿斯",
+      "target": "敘拉古"
+    },
+    {
+      "source": "尼西阿斯",
+      "target": "厄基斯泰"
+    },
+    {
+      "source": "尼西阿斯",
+      "target": "棲來那斯"
+    },
+    {
+      "source": "尼西阿斯",
+      "target": "尼西阿斯和約"
+    },
+    {
+      "source": "尼西阿斯",
+      "target": "月食"
+    },
+    {
+      "source": "公民大会",
+      "target": "公民身份"
+    },
+    {
+      "source": "尼撒战争史",
+      "target": "张广智"
+    },
+    {
+      "source": "张广智",
+      "target": "修昔底德与《伯罗奔尼撒战争史》"
+    },
+    {
+      "source": "马克思",
+      "target": "社会经济发展"
+    },
+    {
+      "source": "马克思",
+      "target": "科学研究工作者"
+    },
+    {
+      "source": "特洛耶战争",
+      "target": "社会经济发展"
+    },
+    {
+      "source": "伯羅奔尼撒同盟",
+      "target": "斯巴達"
+    },
+    {
+      "source": "暴君",
+      "target": "僭主政体"
+    },
+    {
+      "source": "克劳塞维茨",
+      "target": "战争观念"
+    },
+    {
+      "source": "克劳塞维茨",
+      "target": "福柯"
+    },
+    {
+      "source": "黑海",
+      "target": "斯巴達"
+    },
+    {
+      "source": "居魯士",
+      "target": "萊山德"
+    },
+    {
+      "source": "萊山德",
+      "target": "諾提昂海角"
+    },
+    {
+      "source": "萊山德",
+      "target": "羊河口之戰"
+    },
+    {
+      "source": "萊山德",
+      "target": "拉姆普薩科斯"
+    },
+    {
+      "source": "萊山德",
+      "target": "羊河口"
+    },
+    {
+      "source": "萊山德",
+      "target": "斯巴達"
+    },
+    {
+      "source": "亞西比德",
+      "target": "赫爾密斯像被毀事件"
+    },
+    {
+      "source": "卡利克拉提達斯",
+      "target": "列斯堡"
+    },
+    {
+      "source": "卡利克拉提達斯",
+      "target": "阿爾吉努薩伊群島"
+    },
+    {
+      "source": "伯利克里的兒子",
+      "target": "雅典公民議會"
+    },
+    {
+      "source": "卢卡奇",
+      "target": "实践思想者"
+    },
+    {
+      "source": "卢卡奇",
+      "target": "哲人政治家"
+    },
+    {
+      "source": "卢卡奇",
+      "target": "历史与阶级意识"
+    },
+    {
+      "source": "伯罗奔尼撒同盟",
+      "target": "普拉提亚事件"
+    },
+    {
+      "source": "泰勒斯",
+      "target": "希腊七贤"
+    },
+    {
+      "source": "泰勒斯",
+      "target": "七贤"
+    },
+    {
+      "source": "前苏格拉底哲人",
+      "target": "政治实践者"
+    },
+    {
+      "source": "霍布斯",
+      "target": "理论家"
+    },
+    {
+      "source": "霍布斯",
+      "target": "权势"
+    },
+    {
+      "source": "孔子",
+      "target": "理论家"
+    },
+    {
+      "source": "商鞅",
+      "target": "理论家"
+    },
+    {
+      "source": "管仲",
+      "target": "理论家"
+    },
+    {
+      "source": "经济分析史",
+      "target": "熊彼特"
+    },
+    {
+      "source": "经济分析史",
+      "target": "古希腊哲学家"
+    },
+    {
+      "source": "熊彼特",
+      "target": "古希腊哲学家"
+    },
+    {
+      "source": "波斯帝國",
+      "target": "斯巴達"
+    },
+    {
+      "source": "茨",
+      "target": "政治是战争的继续"
+    },
+    {
+      "source": "希腊人",
+      "target": "战争与和平"
+    },
+    {
+      "source": "希腊人",
+      "target": "拉栖代梦"
+    },
+    {
+      "source": "希腊人",
+      "target": "波斯人"
+    },
+    {
+      "source": "希腊人",
+      "target": "贵族观念"
+    },
+    {
+      "source": "战争与和平",
+      "target": "城邦"
+    },
+    {
+      "source": "科農",
+      "target": "羊河口之戰"
+    },
+    {
+      "source": "羊河口之戰",
+      "target": "斯巴達"
+    },
+    {
+      "source": "麥加拉",
+      "target": "斯巴達"
+    },
+    {
+      "source": "德凱利亞",
+      "target": "斯巴達"
+    },
+    {
+      "source": "德凱利亞",
+      "target": "斯巴達王阿基斯"
+    },
+    {
+      "source": "毛泽东",
+      "target": "马克思主义唯物史观"
+    },
+    {
+      "source": "恩格斯",
+      "target": "黑格尔"
+    },
+    {
+      "source": "黑格尔",
+      "target": "拉栖代梦与雅典的对立"
+    },
+    {
+      "source": "黑格尔",
+      "target": "民众"
+    },
+    {
+      "source": "黑格尔",
+      "target": "平等嫉妒"
+    },
+    {
+      "source": "七贤",
+      "target": "佩里昂德洛斯"
+    },
+    {
+      "source": "七贤",
+      "target": "克勒俄布洛斯"
+    },
+    {
+      "source": "七贤",
+      "target": "喀隆"
+    },
+    {
+      "source": "七贤",
+      "target": "彼亚斯"
+    },
+    {
+      "source": "七贤",
+      "target": "皮塔科斯"
+    },
+    {
+      "source": "七贤",
+      "target": "第欧根尼·拉尔修"
+    },
+    {
+      "source": "法勒隆的德谟特里俄斯",
+      "target": "执政官名录"
+    },
+    {
+      "source": "波斯人",
+      "target": "斯巴達"
+    },
+    {
+      "source": "科西拉内乱",
+      "target": "科西拉"
+    },
+    {
+      "source": "科西拉",
+      "target": "伊庇丹努事件"
+    },
+    {
+      "source": "麦加拉内讧",
+      "target": "麦加拉"
+    },
+    {
+      "source": "哲学家",
+      "target": "政治家"
+    },
+    {
+      "source": "哲学家",
+      "target": "理论构想"
+    },
+    {
+      "source": "政治家",
+      "target": "实践智慧"
+    },
+    {
+      "source": "政治家",
+      "target": "现实政治"
+    },
+    {
+      "source": "政治哲学家",
+      "target": "现实政治"
+    },
+    {
+      "source": "文人",
+      "target": "现实政治"
+    },
+    {
+      "source": "马基雅维里",
+      "target": "德性"
+    },
+    {
+      "source": "政治共同体",
+      "target": "小政治共同体"
+    },
+    {
+      "source": "麦加拉",
+      "target": "力量"
+    },
+    {
+      "source": "希洛奴隶",
+      "target": "拉栖代梦"
+    },
+    {
+      "source": "賴山德爾",
+      "target": "比雷埃夫斯"
+    },
+    {
+      "source": "西西里戰",
+      "target": "遠征軍"
+    },
+    {
+      "source": "奥古斯都",
+      "target": "亚历山大"
+    },
+    {
+      "source": "古希腊城邦",
+      "target": "古希腊宗教"
+    },
+    {
+      "source": "古希腊城邦",
+      "target": "法律权利"
+    },
+    {
+      "source": "古希腊宗教",
+      "target": "克法洛斯"
+    },
+    {
+      "source": "公民身份",
+      "target": "血缘关系"
+    },
+    {
+      "source": "公民身份",
+      "target": "祭祀"
+    },
+    {
+      "source": "希臘城邦",
+      "target": "斯巴達"
+    },
+    {
+      "source": "希臘城邦",
+      "target": "馬其頓"
+    },
+    {
+      "source": "波提狄亚",
+      "target": "佛米欧"
+    },
+    {
+      "source": "卡爾息底亞",
+      "target": "波提狄亞"
+    },
+    {
+      "source": "科林斯人",
+      "target": "敘拉古"
+    },
+    {
+      "source": "柏拉图",
+      "target": "理论家"
+    },
+    {
+      "source": "柏拉图",
+      "target": "理想国"
+    },
+    {
+      "source": "柏拉图",
+      "target": "民主"
+    },
+    {
+      "source": "卡爾西斯人",
+      "target": "波提狄亞人"
+    },
+    {
+      "source": "阿卡納尼亞",
+      "target": "斯巴達"
+    },
+    {
+      "source": "帕特拉斯海戰",
+      "target": "蘇格拉底"
+    },
+    {
+      "source": "帕特拉斯海戰",
+      "target": "培特利"
+    },
+    {
+      "source": "帕特拉斯海戰",
+      "target": "埃維那斯河口"
+    },
+    {
+      "source": "伯罗奔尼撒人",
+      "target": "自我保存"
+    },
+    {
+      "source": "伯罗奔尼撒人",
+      "target": "公元前426年地震"
+    },
+    {
+      "source": "克里特",
+      "target": "克里特立法"
+    },
+    {
+      "source": "拉栖代梦人",
+      "target": "希腊联军"
+    },
+    {
+      "source": "拉栖代梦人",
+      "target": "伊汤姆"
+    },
+    {
+      "source": "拉栖代梦人",
+      "target": "贴撒利人"
+    },
+    {
+      "source": "拉栖代梦人",
+      "target": "亚加亚人"
+    },
+    {
+      "source": "拉栖代梦人",
+      "target": "普拉提亚人"
+    },
+    {
+      "source": "自我保存",
+      "target": "拉栖代梦"
+    },
+    {
+      "source": "萨拉米斯海战",
+      "target": "拉栖代梦"
+    },
+    {
+      "source": "多利亚人",
+      "target": "拉栖代梦"
+    },
+    {
+      "source": "敘拉古",
+      "target": "卡塔那"
+    },
+    {
+      "source": "敘拉古",
+      "target": "義大利沿海城市"
+    },
+    {
+      "source": "敘拉古",
+      "target": "厄庇波利"
+    },
+    {
+      "source": "敘拉古",
+      "target": "雅典遠征軍"
+    },
+    {
+      "source": "敘拉古",
+      "target": "敘拉古戰役"
+    },
+    {
+      "source": "敘拉古",
+      "target": "普利姆密里昂"
+    },
+    {
+      "source": "敘拉古",
+      "target": "科倫尼亞"
+    },
+    {
+      "source": "波桑尼阿斯",
+      "target": "希腊联军"
+    },
+    {
+      "source": "普鲁塔克",
+      "target": "希腊罗马名人传"
+    },
+    {
+      "source": "福特",
+      "target": "统治的热望"
+    },
+    {
+      "source": "卢梭",
+      "target": "自然状态"
+    },
+    {
+      "source": "康德",
+      "target": "荣誉感和羞耻心"
+    },
+    {
+      "source": "斯提尼拉伊达",
+      "target": "伯罗奔尼撒同盟大会"
+    },
+    {
+      "source": "德谟克利特",
+      "target": "强者为尊"
+    },
+    {
+      "source": "德谟克利特",
+      "target": "国家利益"
+    },
+    {
+      "source": "德谟克利特",
+      "target": "统治资质"
+    },
+    {
+      "source": "德谟克利特",
+      "target": "原子理论"
+    },
+    {
+      "source": "尼采",
+      "target": "为生存而斗争"
+    },
+    {
+      "source": "尼采",
+      "target": "权力意志"
+    },
+    {
+      "source": "基督教",
+      "target": "美德"
+    },
+    {
+      "source": "基督教",
+      "target": "幸福,同情"
+    },
+    {
+      "source": "奥德修",
+      "target": "欺诈"
+    },
+    {
+      "source": "德国浪漫派",
+      "target": "古希腊世界"
+    },
+    {
+      "source": "洛克",
+      "target": "政府论"
+    },
+    {
+      "source": "希腊哲学",
+      "target": "侵犯,报复"
+    },
+    {
+      "source": "自然正义",
+      "target": "力量,利益"
+    },
+    {
+      "source": "智者",
+      "target": "法律"
+    },
+    {
+      "source": "阿伽门农",
+      "target": "特洛伊远征军"
+    },
+    {
+      "source": "阿伽门农",
+      "target": "海上力量"
+    },
+    {
+      "source": "阿伽门农",
+      "target": "欧里庇得斯悲剧集"
+    },
+    {
+      "source": "阿伽门农",
+      "target": "命运之无常"
+    },
+    {
+      "source": "阿伽门农",
+      "target": "权力"
+    },
+    {
+      "source": "海伦",
+      "target": "丁达流斯"
+    },
+    {
+      "source": "阿爾吉努薩伊海戰",
+      "target": "斯巴達"
+    },
+    {
+      "source": "羊河口",
+      "target": "雅典艦隊"
+    },
+    {
+      "source": "拉栖代梦",
+      "target": "普雷斯托阿纳克斯"
+    },
+    {
+      "source": "拉栖代梦",
+      "target": "特拉西鲁斯"
+    },
+    {
+      "source": "拉栖代梦",
+      "target": "阿尔基弗隆斯"
+    },
+    {
+      "source": "拉栖代梦",
+      "target": "阿尔哥斯"
+    },
+    {
+      "source": "雅典艦隊",
+      "target": "科爾居拉"
+    },
+    {
+      "source": "施米特",
+      "target": "敌友划分"
+    },
+    {
+      "source": "施米特",
+      "target": "政治的概念"
+    },
+    {
+      "source": "爱琴海地区",
+      "target": "特洛耶"
+    },
+    {
+      "source": "卡利克勒斯",
+      "target": "法律"
+    },
+    {
+      "source": "法律",
+      "target": "人性"
+    },
+    {
+      "source": "政治的概念",
+      "target": "刘宗坤"
+    },
+    {
+      "source": "政治的概念",
+      "target": "朱雁冰"
+    },
+    {
+      "source": "敌意",
+      "target": "敌对性行动"
+    },
+    {
+      "source": "奧林匹昂",
+      "target": "雅典遠征軍"
+    },
+    {
+      "source": "卡塔那",
+      "target": "雅典遠征軍"
+    },
+    {
+      "source": "斯巴達",
+      "target": "愛琴海"
+    },
+    {
+      "source": "美感和崇高感",
+      "target": "何兆武"
+    },
+    {
+      "source": "美感和崇高感",
+      "target": "商务印书馆"
+    },
+    {
+      "source": "商务印书馆",
+      "target": "路易十四时代"
+    },
+    {
+      "source": "科爾居拉人",
+      "target": "革命"
+    },
+    {
+      "source": "人性",
+      "target": "煽动者"
+    },
+    {
+      "source": "忒拜",
+      "target": "波奥提亚"
+    },
+    {
+      "source": "敌意引起敌意",
+      "target": "战争意图的猜疑"
+    },
+    {
+      "source": "灾异",
+      "target": "唯心主义的天命观"
+    },
+    {
+      "source": "安菲波里",
+      "target": "伯拉西達"
+    },
+    {
+      "source": "伯拉西達",
+      "target": "安菲波里之役"
+    },
+    {
+      "source": "庇西斯特拉图",
+      "target": "山地派"
+    },
+    {
+      "source": "利卡斯",
+      "target": "阿斯泰奥卡斯"
+    },
+    {
+      "source": "利卡斯",
+      "target": "第二次条约"
+    },
+    {
+      "source": "替萨斐尼",
+      "target": "波斯-拉栖代梦同盟条约"
+    },
+    {
+      "source": "替萨斐尼",
+      "target": "第二次条约"
+    },
+    {
+      "source": "卡尔基丢斯",
+      "target": "波斯-拉栖代梦同盟条约"
+    },
+    {
+      "source": "泰里蒙涅斯",
+      "target": "波斯-拉栖代梦同盟条约"
+    },
+    {
+      "source": "泰里蒙涅斯",
+      "target": "第二次条约"
+    },
+    {
+      "source": "德拉古",
+      "target": "德拉古法典"
+    },
+    {
+      "source": "波斯王",
+      "target": "第二次条约"
+    },
+    {
+      "source": "超凡魅力领袖",
+      "target": "佛米欧"
+    },
+    {
+      "source": "超凡魅力领袖",
+      "target": "赫摩克拉底"
+    },
+    {
+      "source": "超凡魅力领袖",
+      "target": "韦伯"
+    },
+    {
+      "source": "达人",
+      "target": "派罗斯"
+    },
+    {
+      "source": "骑士",
+      "target": "阿里斯托芬"
+    },
+    {
+      "source": "骑士",
+      "target": "政治蛊惑者"
+    },
+    {
+      "source": "四百人议会",
+      "target": "公民会议"
+    },
+    {
+      "source": "佛米欧",
+      "target": "阿卡纳尼亚人"
+    },
+    {
+      "source": "佛米欧",
+      "target": "安菲洛奇亚人"
+    },
+    {
+      "source": "赫摩克拉底",
+      "target": "叙拉古人"
+    },
+    {
+      "source": "赫摩克拉底",
+      "target": "叙拉古政府官员"
+    },
+    {
+      "source": "赫摩克拉底",
+      "target": "叙拉古"
+    },
+    {
+      "source": "韦伯",
+      "target": "经济与社会"
+    },
+    {
+      "source": "韦伯",
+      "target": "韦伯作品集"
+    },
+    {
+      "source": "尼西阿斯和約",
+      "target": "普雷斯托安那克斯"
+    },
+    {
+      "source": "利吉姆",
+      "target": "雅典遠征軍"
+    },
+    {
+      "source": "克里斯提尼",
+      "target": "克里斯提尼改革"
+    },
+    {
+      "source": "克里斯提尼",
+      "target": "贝壳放逐法"
+    },
+    {
+      "source": "五百人议事会",
+      "target": "议长委员会(Prytany)"
+    },
+    {
+      "source": "经济与社会",
+      "target": "阎克文"
+    },
+    {
+      "source": "韦伯作品集",
+      "target": "钱永祥"
+    },
+    {
+      "source": "唯物史观",
+      "target": "马克思主义"
+    },
+    {
+      "source": "普罗米修斯",
+      "target": "人类"
+    },
+    {
+      "source": "宙斯",
+      "target": "羞耻"
+    },
+    {
+      "source": "毕达哥拉斯学派",
+      "target": "民主"
+    },
+    {
+      "source": "英国下议院",
+      "target": "雅典公民大会"
+    },
+    {
+      "source": "民众",
+      "target": "政治领袖"
+    },
+    {
+      "source": "民众",
+      "target": "平等"
+    },
+    {
+      "source": "民众",
+      "target": "自由"
+    },
+    {
+      "source": "民众",
+      "target": "伟人"
+    },
+    {
+      "source": "民众",
+      "target": "个人操守"
+    },
+    {
+      "source": "地米斯托克利",
+      "target": "雅典和斯巴达"
+    },
+    {
+      "source": "地米斯托克利",
+      "target": "希腊和波斯"
+    },
+    {
+      "source": "地米斯托克利",
+      "target": "政治实践能力"
+    },
+    {
+      "source": "地米斯托克利",
+      "target": "政治道德"
+    },
+    {
+      "source": "政和决议",
+      "target": "民主制"
+    },
+    {
+      "source": "民主制",
+      "target": "克里斯玛式的政治领袖"
+    },
+    {
+      "source": "托克维尔",
+      "target": "民主社会"
+    },
+    {
+      "source": "多数人表决",
+      "target": "意见"
+    },
+    {
+      "source": "意见",
+      "target": "真理"
+    },
+    {
+      "source": "为公之心",
+      "target": "明智"
+    },
+    {
+      "source": "集体任性",
+      "target": "错误"
+    },
+    {
+      "source": "福里尼卡斯",
+      "target": "米利都战役"
+    },
+    {
+      "source": "福里尼卡斯",
+      "target": "每个其他职务"
+    },
+    {
+      "source": "波斯总督替萨斐尼",
+      "target": "卷八"
+    },
+    {
+      "source": "波斯总督替萨斐尼",
+      "target": "明智德性"
+    },
+    {
+      "source": "阿里斯提德",
+      "target": "雅典政坛"
+    },
+    {
+      "source": "政治蛊惑者",
+      "target": "阿里斯托芬"
+    },
+    {
+      "source": "忒拜人",
+      "target": "普拉提亚人"
+    },
+    {
+      "source": "普拉提亚人",
+      "target": "希洛人暴动"
+    },
+    {
+      "source": "普拉提亚人",
+      "target": "波斯战争"
+    },
+    {
+      "source": "普拉提亚人",
+      "target": "希罗多德《历史》"
+    },
+    {
+      "source": "哈林顿",
+      "target": "大洋国"
+    },
+    {
+      "source": "阿尔哥斯",
+      "target": "特拉西鲁斯"
+    },
+    {
+      "source": "敘拉古人及其同盟者",
+      "target": "敘拉古戰役"
+    },
+    {
+      "source": "欧里庇得斯",
+      "target": "希波吕托斯"
+    },
+    {
+      "source": "欧里庇得斯",
+      "target": "安德洛玛刻"
+    },
+    {
+      "source": "欧里庇得斯",
+      "target": "欧里庇得斯悲剧集"
+    },
+    {
+      "source": "奥林匹斯众神",
+      "target": "力量"
+    },
+    {
+      "source": "力量",
+      "target": "统治资质"
+    },
+    {
+      "source": "叙拉古人",
+      "target": "撤退"
+    },
+    {
+      "source": "欧里庇得斯悲剧集",
+      "target": "周作人"
+    },
+    {
+      "source": "欧里庇得斯悲剧集",
+      "target": "中国对外翻译出版公司"
+    },
+    {
+      "source": "贫穷",
+      "target": "冒险"
+    },
+    {
+      "source": "野心",
+      "target": "冒险"
+    },
+    {
+      "source": "傲慢",
+      "target": "冒险"
+    },
+    {
+      "source": "路易十四",
+      "target": "违背癖好"
+    },
+    {
+      "source": "路易十四",
+      "target": "国家利益"
+    },
+    {
+      "source": "伏尔泰",
+      "target": "路易十四时代"
+    }
+  ],
+  "type_colors": {
+    "Person": "#ff6b6b",
+    "Place": "#4ecdc4",
+    "Event": "#a29bfe",
+    "Organization": "#ffe66d",
+    "Document": "#f5b041",
+    "Concept": "#74b9ff",
+    "Period": "#55efc4",
+    "Artifact": "#fd79a8",
+    "Other": "#636e72"
+  },
+  "type_counts": {
+    "Place": 371,
+    "Concept": 60,
+    "Person": 133,
+    "Event": 47,
+    "Document": 90,
+    "Other": 119,
+    "Period": 21,
+    "Organization": 9,
+    "Artifact": 1
+  }
+}
